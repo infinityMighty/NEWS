@@ -2,6 +2,7 @@
 import feedparser, json, os, re, html, time, socket, datetime as dt
 from calendar import timegm
 from urllib.parse import urlparse
+from saransh_extras import trim_to_sentence, refresh_context
 
 socket.setdefaulttimeout(10)
 feedparser.USER_AGENT = "Mozilla/5.0 (compatible; SaranshBot/1.0)"
@@ -43,10 +44,10 @@ NAMES = {"bbci.co.uk": "BBC", "theguardian.com": "The Guardian", "thehindu.com":
  "downtoearth.org.in": "Down To Earth", "carbonbrief.org": "Carbon Brief", "sciencedaily.com": "ScienceDaily",
  "nature.com": "Nature", "nasa.gov": "NASA", "space.com": "Space.com", "technologyreview.com": "MIT Tech Review",
  "who.int": "WHO", "livelaw.in": "LiveLaw", "barandbench.com": "Bar & Bench", "venturebeat.com": "VentureBeat", "theverge.com": "The Verge"}
-PER_CAT, TOP_N, TOP_PER_CAT, MAX_AGE_H, CHUNK = 15, 12, 2, 168, 25   # 15 cards/category, 7-day window
+PER_CAT, TOP_N, TOP_PER_CAT, MAX_AGE_H, CHUNK = 15, 12, 2, 168, 15   # 15 cards/category, 7-day window, 15 stories per LLM call
 MODEL = os.getenv("MODEL", "claude-haiku-5-5")
 PROMPT = ("You are a neutral news editor. For each story write: headline (max 90 chars), "
- "summary (2-3 sentences, max 60 words, ONLY facts present in the input - add nothing). "
+ "summary (2-3 complete sentences, max 60 words, ONLY facts present in the input - add nothing; always end on a full stop). "
  "Return ONLY a JSON array of {id, headline, summary}.\nStories:\n")
 
 clean = lambda t: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html.unescape(t or ""))).strip()
@@ -66,7 +67,7 @@ def collect():
                     ts = timegm(t) if t else now
                     if now - ts > MAX_AGE_H * 3600 or not e.get("title"): continue
                     out.append(dict(category=cat, source=source_of(url), title=clean(e.get("title")),
-                                    snippet=clean(e.get("summary"))[:400], url=e.get("link", ""), ts=ts)); got += 1
+                                    snippet=clean(e.get("summary"))[:700], url=e.get("link", ""), ts=ts)); got += 1
             except Exception as ex:
                 print("  error", url, ex)
             if not got: print(f"  EMPTY/FAILED: [{cat}] {url}")
@@ -104,7 +105,8 @@ def select(groups):
     cards = []
     for g in ordered:
         it = g["item"]
-        cards.append(dict(category=it["category"], headline=it["title"], summary=it["snippet"][:220],
+        cards.append(dict(category=it["category"], headline=it["title"],
+            summary=trim_to_sentence(it["snippet"], 260), raw=it["snippet"],   # raw is removed before saving
             source=it["source"] + (f" +{len(g['srcs'])-1}" if len(g["srcs"]) > 1 else ""), url=it["url"], top=id(g) in ids,
             published=dt.datetime.fromtimestamp(it["ts"], dt.timezone.utc).isoformat()))
     return cards
@@ -116,22 +118,27 @@ def summarise(cards):
     client = anthropic.Anthropic()
     for s in range(0, len(cards), CHUNK):
         part = cards[s:s + CHUNK]
-        try:
-            src = [dict(id=i, title=c["headline"], snippet=c["summary"]) for i, c in enumerate(part)]
-            msg = client.messages.create(model=MODEL, max_tokens=4500, messages=[{"role": "user", "content": PROMPT + json.dumps(src)}])
-            for d in json.loads(re.search(r"\[.*\]", msg.content[0].text, re.S).group(0)):
-                if isinstance(d.get("id"), int) and 0 <= d["id"] < len(part):
-                    for k in ("headline", "summary"):
-                        if d.get(k): part[d["id"]][k] = d[k]
-        except Exception as ex:
-            print(f"LLM chunk {s//CHUNK} failed, raw snippets kept:", ex)
+        src = [dict(id=i, title=c["headline"], snippet=c["raw"][:600]) for i, c in enumerate(part)]
+        for attempt in range(2):   # one retry if the model reply is cut off or not valid JSON
+            try:
+                msg = client.messages.create(model=MODEL, max_tokens=4000, messages=[{"role": "user", "content": PROMPT + json.dumps(src)}])
+                for d in json.loads(re.search(r"\[.*\]", msg.content[0].text, re.S).group(0)):
+                    if isinstance(d.get("id"), int) and 0 <= d["id"] < len(part):
+                        for k in ("headline", "summary"):
+                            if d.get(k): part[d["id"]][k] = d[k]
+                break
+            except Exception as ex:
+                print(f"LLM chunk {s//CHUNK} attempt {attempt+1} failed:", ex)
 
 if __name__ == "__main__":
     items = collect()
     if not items: raise SystemExit("No items fetched - keeping previous news.json")
     cards = select(cluster(items))
     summarise(cards)
-    ctx = json.load(open("context.json")) if os.path.exists("context.json") else []
+    for c in cards:   # final safety pass: every description ends on a complete sentence
+        c["summary"] = trim_to_sentence(c["summary"], 300)
+        c.pop("raw", None)
+    ctx = refresh_context(cards)   # adds ~5 fresh learning cards daily to context.json, keeps newest 40
     os.makedirs("docs", exist_ok=True)
     json.dump(dict(updated=dt.datetime.now(dt.timezone.utc).isoformat(), items=cards, context=ctx),
               open("docs/news.json", "w"), indent=1, ensure_ascii=False)
