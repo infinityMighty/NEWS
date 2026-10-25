@@ -1,6 +1,6 @@
 name: Update news
 on:
-  schedule: [{cron: "30 0 * * *"}]   # daily, 6:00 AM IST (00:30 UTC)
+  schedule: [{cron: "30 22 * * *"}]   # daily, 4:00 AM IST (22:30 UTC) - buffer so news is ready by ~5:00 AM IST despite GitHub delays
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,5 +18,5 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - run: |
           git config user.name "news-bot"; git config user.email "bot@users.noreply.github.com"
-          git add docs/news.json
+          git add docs/news.json context.json
           git diff --cached --quiet || (git commit -m "Update news" && git push)
