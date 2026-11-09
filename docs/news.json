@@ -1,473 +1,482 @@
 {
- "updated": "2026-11-08T01:36:15.465239+00:00",
+ "updated": "2026-11-09T01:48:39.598538+00:00",
  "items": [
   {
    "category": "World",
-   "headline": "Paraguay’s ousted president appears before prosecutors after impeachment",
-   "summary": "Former Paraguayan President Santiago Pena has appeared before prosecutors.",
+   "headline": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+   "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
    "source": "Al Jazeera +1",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
    "top": true,
-   "published": "2026-11-07T20:08:47+00:00"
+   "published": "2026-11-08T18:22:58+00:00"
   },
   {
-   "category": "Society",
-   "headline": "Royal Family join veterans and families at Festival of Remembrance",
-   "summary": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+   "category": "Science",
+   "headline": "A little-known protein could be a major culprit in type 2 diabetes",
+   "summary": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
    "top": true,
-   "published": "2026-11-08T01:24:58+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-   "top": true,
-   "published": "2026-11-08T01:00:48+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "Briton among six killed in 'far-right' shooting in Krakow",
-   "summary": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
-   "top": true,
-   "published": "2026-11-08T00:55:17+00:00"
-  },
-  {
-   "category": "Technology",
-   "headline": "Can the Zelda remake capture the magic of the original?",
-   "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-   "top": true,
-   "published": "2026-11-08T00:37:45+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-   "summary": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
-   "top": true,
-   "published": "2026-11-08T00:17:56+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-   "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-   "top": true,
-   "published": "2026-11-08T00:13:34+00:00"
+   "published": "2026-11-09T01:44:53+00:00"
   },
   {
    "category": "India",
-   "headline": "A bridge between past and present",
-   "summary": "A German publication ranked Bihar Museum among the best in the world.",
+   "headline": "Karnataka tests petrol samples at 67 locations over ethanol blending complaints: CM Shivakumar",
+   "summary": "According to the CM, inspections had been carried out not only at petrol pumps but also at the stages of ethanol blending and distribution.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-tests-petrol-samples-at-67-locations-over-ethanol-blending-complaints-cm-shivakumar/article71681265.ece",
    "top": true,
-   "published": "2026-11-07T23:12:10+00:00"
+   "published": "2026-11-09T01:26:56+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+   "summary": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+   "top": true,
+   "published": "2026-11-09T01:19:09+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+   "summary": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+   "top": true,
+   "published": "2026-11-09T01:14:33+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+   "summary": "President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fightersDonald Trump said on Sunday that he “was only kidding” when he announced a day earlier that he had offered the job of White House press.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+   "top": true,
+   "published": "2026-11-09T01:10:55+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Australia selectors make early call to axe Marnus Labuschagne from Test squad",
+   "summary": "Under-fire batter will not feature in upcoming New Zealand series‘Still possible’ he will be recalled for tours to India and EnglandMarnus Labuschagne has been dropped from Australia’s Test squad.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/09/australia-marnus-labuschagne-dropped-nz-test-series-poor-form",
+   "top": true,
+   "published": "2026-11-09T01:05:34+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+   "summary": "Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+   "top": true,
+   "published": "2026-11-09T00:57:05+00:00"
   },
   {
    "category": "Business",
-   "headline": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-   "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "headline": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
    "top": true,
-   "published": "2026-11-07T23:02:35+00:00"
+   "published": "2026-11-09T00:50:06+00:00"
   },
   {
-   "category": "Space",
-   "headline": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-   "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
-   "source": "NASA",
-   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+   "category": "Society",
+   "headline": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+   "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
    "top": true,
-   "published": "2026-11-07T22:47:03+00:00"
+   "published": "2026-11-09T00:31:03+00:00"
   },
   {
-   "category": "India",
-   "headline": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
-   "summary": "Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+   "category": "Business",
+   "headline": "Doing these things now will help you save money at Christmas",
+   "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
    "top": true,
-   "published": "2026-11-07T22:23:43+00:00"
+   "published": "2026-11-09T00:09:14+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
-   "summary": "NPR's Rob Schmitz speaks with former Texas congressman Beto O'Rourke about how past efforts by him and other Democrats helped the party win big in Texas in the midterms.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+   "headline": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+   "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
    "top": true,
-   "published": "2026-11-07T22:12:08+00:00"
+   "published": "2026-11-09T00:01:05+00:00"
   },
   {
    "category": "World",
-   "headline": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-   "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
-   "top": false,
-   "published": "2026-11-08T00:50:28+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-   "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMsGet our daily political email, free app or daily news podcastFour heritage-listed defence sites, including Sydney’s Victoria Barracks, will.",
+   "headline": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+   "summary": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday nightGet our breaking news email, free app or daily news podcastA man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
    "top": false,
-   "published": "2026-11-08T00:17:28+00:00"
+   "published": "2026-11-09T00:38:46+00:00"
   },
   {
    "category": "World",
-   "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+   "headline": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+   "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌BeijingNvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+   "top": false,
+   "published": "2026-11-09T00:25:28+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "India’s night lights up for Diwali",
+   "summary": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
    "top": false,
-   "published": "2026-11-08T00:00:56+00:00"
+   "published": "2026-11-09T00:24:04+00:00"
   },
   {
    "category": "World",
-   "headline": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-   "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+   "headline": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+   "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
    "top": false,
-   "published": "2026-11-07T23:45:45+00:00"
+   "published": "2026-11-09T00:07:02+00:00"
   },
   {
    "category": "World",
-   "headline": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+   "headline": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+   "summary": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+   "top": false,
+   "published": "2026-11-09T00:00:34+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "Nvidia CEO’s affair sparks Chinese espionage probe",
+   "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+   "top": false,
+   "published": "2026-11-08T23:58:53+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "Mexican mayor found alive after hours-long abduction",
+   "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+   "top": false,
+   "published": "2026-11-08T23:55:37+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+   "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024Get our breaking news email, free app or daily news podcastBeau Lamarre-Condon has demonstrated in court how he claims he shot Jesse Baird, acting.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+   "top": false,
+   "published": "2026-11-08T23:50:17+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+   "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+   "top": false,
+   "published": "2026-11-08T23:39:47+00:00"
+  },
+  {
+   "category": "World",
+   "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T22:58:49+00:00"
+   "published": "2026-11-08T23:34:18+00:00"
   },
   {
    "category": "World",
-   "headline": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-   "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We are just learning details of the horrific mass shooting in Kraków, a savage.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "top": false,
-   "published": "2026-11-07T22:32:41+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-   "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+   "headline": "Lopez double fires Barcelona to win at Atletico Madrid",
+   "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
    "top": false,
-   "published": "2026-11-07T22:21:58+00:00"
+   "published": "2026-11-08T22:42:12+00:00"
   },
   {
    "category": "World",
-   "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T22:19:59+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "Police clash with protesters as anti-government rallies sweep France",
-   "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+   "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
+   "summary": "Pope Leo's visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
    "top": false,
-   "published": "2026-11-07T21:24:10+00:00"
+   "published": "2026-11-08T22:16:50+00:00"
   },
   {
    "category": "World",
-   "headline": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-   "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior ministerSix people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "top": false,
-   "published": "2026-11-07T21:19:01+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "Mélenchon promises action against Israeli annexation if elected President",
-   "summary": "Mélenchon promises action against Israeli annexation if elected President.",
+   "headline": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+   "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
    "top": false,
-   "published": "2026-11-07T20:53:47+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "Who is behind Europe’s suspected hybrid attacks?",
-   "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-   "top": false,
-   "published": "2026-11-07T20:48:58+00:00"
-  },
-  {
-   "category": "World",
-   "headline": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-   "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-   "top": false,
-   "published": "2026-11-07T20:44:34+00:00"
+   "published": "2026-11-08T22:16:10+00:00"
   },
   {
    "category": "India",
-   "headline": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
-   "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
+   "headline": "Fire engulfs Jammu’s Nehru Market, guts around 12 shops",
+   "summary": "Another blaze was reported in the border district of Kathua, where, a store room at the district police lines went up in flames.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/fire-engulfs-jammus-nehru-market-guts-around-12-shops/article71681226.ece",
    "top": false,
-   "published": "2026-11-07T22:06:02+00:00"
+   "published": "2026-11-08T21:29:17+00:00"
   },
   {
    "category": "India",
-   "headline": "42 days of SRFTI protest; classes suspended till December 11",
-   "summary": "Students send message of resistance and fight for justice on Deepavali.",
+   "headline": "Infiltrators lurking across the border, will send them back from the same way they enter: Adhikari",
+   "summary": "Blaming the previous Trinamool Congress government for non-cooperation with the border guarding forces, Chief Minister Suvendu Adhikari said that a wonderful coordination has been achieved between the West Bengal police and the BSF.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/west-bengal/42-days-of-srfti-protest-classes-suspended-till-december-11/article71678513.ece",
+   "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-to-institute-seema-mitra-award-for-bsf-ssb-police-personnel-from-2027-suvendu/article71681031.ece",
    "top": false,
-   "published": "2026-11-07T21:59:57+00:00"
+   "published": "2026-11-08T20:31:46+00:00"
   },
   {
    "category": "India",
-   "headline": "Presidency University expels student for allegedly defacing Vivekananda poster",
-   "summary": "The university also barred an ex-student from the campus; SFI condemns expulsion, ABVP welcomes authority action.",
+   "headline": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+   "summary": "The overall air quality of Delhi continued to be in the “very poor” category while many parts of the city continued to reel under “severe” air quality.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece",
+   "url": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
    "top": false,
-   "published": "2026-11-07T21:25:09+00:00"
+   "published": "2026-11-08T19:31:12+00:00"
   },
   {
    "category": "India",
-   "headline": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
-   "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan record the submission that the vacancy would now be filled up as per regular process.",
+   "headline": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
+   "summary": "The evacuation comes days after India said 14 Indian nationals aboard a yacht involved in an incident off the Yemeni coast were safe.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece",
+   "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
    "top": false,
-   "published": "2026-11-07T21:13:02+00:00"
+   "published": "2026-11-08T19:13:45+00:00"
   },
   {
    "category": "India",
-   "headline": "Locals burn effigy of Christian priests at Basanti in WB",
-   "summary": "Father Parimal Kanji, the priest-in-charge at Basanti, stated that the alleged perpetrators were outsiders and not local residents and confirmed that a written complaint had been submitted to the police.",
+   "headline": "Thick smog blankets Delhi on Deepavali night, AQI at 20 stations ‘severe’",
+   "summary": "The Air Quality Early Warning System (EWS) has forecast that Delhi's air quality is likely to slip into the 'severe' category from November 9 and remain there for the subsequent few days.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/west-bengal/locals-burn-effigy-of-christian-priests-at-basanti-in-wb/article71678867.ece",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deepavali-cracker-ban-ver-poor/article71681158.ece",
    "top": false,
-   "published": "2026-11-07T21:05:10+00:00"
+   "published": "2026-11-08T17:33:38+00:00"
   },
   {
    "category": "India",
-   "headline": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
-   "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
-   "top": false,
-   "published": "2026-11-07T20:50:38+00:00"
-  },
-  {
-   "category": "India",
-   "headline": "Rajnath Singh warns of evolving threats, calls for highest military readiness",
-   "summary": "Addressing personnel at key airbase near China frontier, Defence Minister warns of adversaries exploiting ‘vulnerabilities’; he also reviews Army’s LAC infrastructure, operational preparedness and lauds initiatives aimed at strengthening ties with local.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece",
-   "top": false,
-   "published": "2026-11-07T20:49:58+00:00"
-  },
-  {
-   "category": "India",
-   "headline": "Jumbo hustle: the transfer of elephants to Tamil Nadu’s temples",
-   "summary": "The unseemly haste with which five elephants from Assam were transported to temples in Tamil Nadu raises pertinent questions about the process of animal transfer, and whether the rules are cheat proof.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/how-assam-captive-elephants-are-donated-and-transferred-to-tamil-nadu-temples/article71677667.ece",
-   "top": false,
-   "published": "2026-11-07T20:44:16+00:00"
-  },
-  {
-   "category": "India",
-   "headline": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
-   "summary": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
-   "top": false,
-   "published": "2026-11-07T20:43:26+00:00"
-  },
-  {
-   "category": "India",
-   "headline": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
+   "headline": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
    "summary": "",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
+   "url": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
    "top": false,
-   "published": "2026-11-07T20:09:14+00:00"
+   "published": "2026-11-08T17:33:36+00:00"
   },
   {
    "category": "India",
-   "headline": "Ten of 11 stations on Kochi metro’s Pink Line to have entry/exit from both sides of road",
-   "summary": "Terminal station at Smart City to have entry/exit only on the right hand side; foot overbridge mulled for members of the public to access the station.",
+   "headline": "P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
+   "summary": "The Indian Olympic Association president alleged former archer Dola Banerjee violated the Model Code of Conduct by circulating a WhatsApp message seeking votes for four candidates ahead of Monday’s election.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/kerala/ten-of-11-stations-on-kochi-metros-pink-line-to-have-entryexit-from-both-sides-of-road/article71678672.ece",
+   "url": "https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
    "top": false,
-   "published": "2026-11-07T19:56:28+00:00"
+   "published": "2026-11-08T16:40:48+00:00"
   },
   {
    "category": "India",
-   "headline": "A wet Deepavali ahead for many parts of Tamil Nadu",
-   "summary": "Wet weather is expected to prevail across the State till November 12, with heavy rainfall set to lash delta and southern districts till Tuesday.",
+   "headline": "Revanth celebrates Deepavali with Indiramma house beneficiary",
+   "summary": "Ministers, MLAs asked to spend festival with poor families who received houses; 2.21 lakh houses completed under scheme.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/cities/chennai/a-wet-deepavali-ahead-for-many-parts-of-tamil-nadu/article71678386.ece",
+   "url": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
    "top": false,
-   "published": "2026-11-07T19:31:25+00:00"
+   "published": "2026-11-08T16:24:53+00:00"
   },
   {
    "category": "India",
-   "headline": "Water released from Shenbagathoppu dam due to rain",
-   "summary": "Tiruvannamalai Collector Vandhana Garg has warned residents in Cheyyar, Arani, Vandavasi, and Polur towns along Kamandalam Naganathi river against crossing the waterbody as the waterflow in the river is on the rise.",
+   "headline": "Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
+   "summary": "With this development, five bodies have been traced so far in the case, while the search for the remaining two continues.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
+   "url": "https://www.thehindu.com/news/cities/bangalore/rajajinagar-murders-two-more-bodies-recovered-near-chamundi-hills-in-mysuru/article71680991.ece",
    "top": false,
-   "published": "2026-11-07T19:30:13+00:00"
+   "published": "2026-11-08T15:55:53+00:00"
+  },
+  {
+   "category": "India",
+   "headline": "UK Hindu family takes legal action after school objects to boy wearing tilak",
+   "summary": "The parents of a nine-year-old boy have approached the UK High Court, alleging religious discrimination after he was prevented from wearing the sacred Tilak-Chandlo to school.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece",
+   "top": false,
+   "published": "2026-11-08T15:31:46+00:00"
+  },
+  {
+   "category": "India",
+   "headline": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
+   "summary": "“It is important to stem the rot before it spreads, all the more so if this book was AI-generated,” the economist said in a clarification via e-mail to The Hindu.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+   "top": false,
+   "published": "2026-11-08T14:42:15+00:00"
+  },
+  {
+   "category": "India",
+   "headline": "Minister Agnimitra Paul says rose water to be used for mist spraying in Kolkata; environmentalist slams move",
+   "summary": "",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/cities/kolkata/minister-agnimitra-paul-says-rose-water-to-be-used-for-mist-spraying-in-kolkata-environmentalist-slams-move/article71681027.ece",
+   "top": false,
+   "published": "2026-11-08T14:32:47+00:00"
+  },
+  {
+   "category": "India",
+   "headline": "Assam OIL facility fire: death toll rises to four as another injured dies; four suspended",
+   "summary": "OIL has instituted a high-level inquiry to probe into the incident.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece",
+   "top": false,
+   "published": "2026-11-08T13:51:26+00:00"
+  },
+  {
+   "category": "India",
+   "headline": "NGT issues notice to Tirunelveli Collector over threats to Tamirabharani fish species",
+   "summary": "National Green Tribunal takes suo motu cognisance of The Hindu report.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/ngt-issues-notice-to-tirunelveli-collector-over-threats-to-tamirabharani-fish-species/article71679299.ece",
+   "top": false,
+   "published": "2026-11-08T13:36:02+00:00"
   },
   {
    "category": "Politics",
-   "headline": "President of The Heritage Foundation looks ahead to the future of the GOP",
-   "summary": "Kevin Roberts, the president of the conservative think tank The Heritage Foundation, talks about the organization's priorities and hopes for the future of the Republican Party and its policies.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
-   "top": false,
-   "published": "2026-11-07T22:12:03+00:00"
-  },
-  {
-   "category": "Politics",
-   "headline": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-   "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say campaigners.Twelve birth centres – midwife-led maternity units – have closed in England since 2019.",
+   "headline": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+   "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+   "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
    "top": false,
-   "published": "2026-11-07T17:00:16+00:00"
+   "published": "2026-11-08T22:30:51+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-   "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sidesFive European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit.The leaders of Germany, Belgium, the Netherlands, Luxembourg and Denmark, said deeper cooperation on clean energy would benefit both sides in a letter to Ursula von der Leyen and António Costa.",
+   "headline": "Trump staffing changes post-midterms signal he's battle ready",
+   "summary": "President Trump is making changes to his inner circle that signal how he may approach divided government.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
+   "top": false,
+   "published": "2026-11-08T22:04:17+00:00"
+  },
+  {
+   "category": "Politics",
+   "headline": "How will Democrats approach foreign policy after their midterm win?",
+   "summary": "NPR's Rob Schmitz speaks with Thomas Wright, senior fellow at the Brookings Institution, about his piece in Foreign Affairs titled The Fight for the Future of Democratic Foreign Policy.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6030982/how-will-democrats-approach-foreign-policy-after-their-midterm-win",
+   "top": false,
+   "published": "2026-11-08T22:04:14+00:00"
+  },
+  {
+   "category": "Politics",
+   "headline": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+   "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public lifeThe culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+   "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
    "top": false,
-   "published": "2026-11-07T15:30:35+00:00"
+   "published": "2026-11-08T19:05:04+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-   "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansionSpeaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched.",
+   "headline": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+   "summary": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwiseLabour expected to cut EV targets for car industry despite MPs’ climate concernsAndy Burnham insists he is committed to the green transition, but his.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
    "top": false,
-   "published": "2026-11-07T15:00:14+00:00"
+   "published": "2026-11-08T18:01:01+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
-   "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stressThe glad tidings brought by the minister were that the wait was almost over: the establishment of Great British Railways could be wrapped up by Christmas, at least in law.",
+   "headline": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+   "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "top": false,
+   "published": "2026-11-08T16:46:15+00:00"
+  },
+  {
+   "category": "Politics",
+   "headline": "NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad",
+   "summary": "The results of the U.S. midterms were closely followed overseas. NPR correspondents in Moscow and Beijing discuss how the elections are seen in the countries they cover.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad",
+   "top": false,
+   "published": "2026-11-08T13:34:32+00:00"
+  },
+  {
+   "category": "Politics",
+   "headline": "‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet | John Harris",
+   "summary": "Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in lifeCallum Atkinson is 23 years old, and lives in the Greater Manchester town of Rochdale.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life",
    "top": false,
-   "published": "2026-11-07T13:00:11+00:00"
+   "published": "2026-11-08T13:27:33+00:00"
   },
   {
    "category": "Politics",
-   "headline": "How the new Senate majority shifts control over the federal judiciary",
-   "summary": "The change in the Senate's majority party means that starting Jan. 3, Democrats will run federal judicial appointments and may continue to until at least 2030.",
+   "headline": "Republican consultant discusses what went wrong and what's next for the GOP",
+   "summary": "NPR's Ayesha Rascoe speaks to Hogan Gidley, a Republican consultant and former White House Deputy Press Secretary during the first Trump administration, about the GOP's post-midterm strategy.",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop",
    "top": false,
-   "published": "2026-11-07T12:41:11+00:00"
+   "published": "2026-11-08T13:22:23+00:00"
   },
   {
    "category": "Politics",
-   "headline": "GOP's lame-duck clock is ticking",
-   "summary": "The current Congress, under its Republican majorities, must address the National Defense Authorization Act and a government funding bill as Democrats wait to take over.",
+   "headline": "Historically red state legislatures have flipped. Here's what's on their agenda",
+   "summary": "Democrats made sweeping gains in state legislatures across the country. We look at North Carolina and Arizona to see what that could mean.",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6032594/gops-lame-duck-clock-is-ticking",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6032600/historically-red-state-legislatures-have-flipped-heres-whats-on-their-agenda",
    "top": false,
-   "published": "2026-11-07T12:41:10+00:00"
+   "published": "2026-11-08T13:16:08+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Border shift: Hispanic voters drive Texas' historic flip to blue",
-   "summary": "Once reliably a red state, Texas will turn deep blue following this week's midterms. One of the most notable shifts was along the Texas-Mexico border, where Hispanic voters had a big influence.",
+   "headline": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
+   "summary": "Democrats plans for the next Congress, where they'll hold significant majorities in both chambers. Meanwhile, President Trump signals his plans by promoting Stephen Miller as his new Chief of Staff.",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6030994/border-shift-hispanic-voters-drive-texas-historic-flip-to-blue",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff",
    "top": false,
-   "published": "2026-11-07T12:41:08+00:00"
+   "published": "2026-11-08T13:16:05+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism",
-   "summary": "President Trump's decision to make Stephen Miller his new chief of staff is a rebuke of the midterm results and a doubling-down on Trumpism.",
+   "headline": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+   "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T13:05:30+00:00"
+  },
+  {
+   "category": "Politics",
+   "headline": "How Gen Z voters helped fuel a blue wave for Democrats",
+   "summary": "Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead.",
    "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
    "top": false,
-   "published": "2026-11-07T12:41:07+00:00"
+   "published": "2026-11-08T10:00:00+00:00"
   },
   {
    "category": "Politics",
-   "headline": "Deb Haaland's New Mexico challenge",
-   "summary": "Deb Haaland is the first Native American governor of New Mexico. She faces big expectations and challenges, but also opportunities in a deep blue state with abundant petroleum revenue.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-5995646/deb-haalands-new-mexico-challenge",
-   "top": false,
-   "published": "2026-11-07T12:41:02+00:00"
-  },
-  {
-   "category": "Politics",
-   "headline": "Defiance Mayor Mike McCann on how Republicans can regroup after midterm losses",
-   "summary": "Republicans were routed in the midterm elections. NPR's Scott Simon talks to Mike McCann, the Mayor of Defiance, Ohio, about how the Republican party can win back support.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6029755/defiance-mayor-mike-mccann-on-how-republicans-can-regroup-after-midterm-losses",
-   "top": false,
-   "published": "2026-11-07T12:41:01+00:00"
-  },
-  {
-   "category": "Politics",
-   "headline": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-   "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-   "top": false,
-   "published": "2026-11-07T10:00:00+00:00"
-  },
-  {
-   "category": "Politics",
-   "headline": "‘Finally there’s hope’: UK weighs up opportunities and risks after Trump’s midterms disaster",
-   "summary": "Senior British politicians and officials highlight potential to end Iran war but warn US president is not yet ‘a spent force’Andy Burnham was having dinner at the Commonwealth summit in Antigua when the results of the US midterm elections started rolling.",
+   "headline": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+   "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to‘It started as a trickle in 2024 and now it’s an onslaught.”",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster",
+   "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
    "top": false,
-   "published": "2026-11-07T09:00:06+00:00"
-  },
-  {
-   "category": "Politics",
-   "headline": "Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking podcast",
-   "summary": "Today’s political conversation is dominated by one topic above all: race. The Guardian columnist Nesrine Malik has been way ahead of the pack in diagnosing how immigrants, their children and grandchildren are reshaping not just politics but western societies.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/nov/07/why-woke-20-is-taking-on-trump-and-establishment-politics-nesrine-malik-radical-thinking",
-   "top": false,
-   "published": "2026-11-07T07:45:05+00:00"
+   "published": "2026-11-08T08:00:36+00:00"
   },
   {
    "category": "Governance",
@@ -504,6 +513,24 @@
    "url": "https://www.theguardian.com/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
    "top": false,
    "published": "2026-11-02T10:00:37+00:00"
+  },
+  {
+   "category": "Finance",
+   "headline": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+   "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI‘AI clog’: UK battles onslaught of chatbot-generated complaintsEditorial: the AI backlash – Silicon Valley’s political power is.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+   "top": false,
+   "published": "2026-11-08T12:05:58+00:00"
+  },
+  {
+   "category": "Finance",
+   "headline": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+   "summary": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+   "top": false,
+   "published": "2026-11-08T05:36:06+00:00"
   },
   {
    "category": "Finance",
@@ -623,22 +650,76 @@
    "published": "2026-11-06T12:31:15+00:00"
   },
   {
-   "category": "Finance",
-   "headline": "Rupee surges 52 points to close at 93.89 against U.S. dollar",
-   "summary": "Forex traders said a surge in domestic markets and fears of a slowdown in AI spending also supported the rupee.",
+   "category": "Business",
+   "headline": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+   "summary": "The announcement came after Jensen Huang acknowledged to the board that he had been intimate with a business executive whom U.S. intelligence determined was gathering information for Beijing.",
    "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/markets/rupee-surges-52-points-to-close-at-9389-against-us-dollar/article71674023.ece",
+   "url": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
    "top": false,
-   "published": "2026-11-06T12:21:50+00:00"
+   "published": "2026-11-08T23:08:52+00:00"
   },
   {
-   "category": "Finance",
-   "headline": "Mines Ministry launches ninth round of auctions, offers 20 critical mineral blocks",
-   "summary": "Till date, across the eight tranches of mineral block auctions, 100 unique critical and strategic mineral blocks have been offered, of which 64 blocks have been successfully auctioned.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
+   "category": "Business",
+   "headline": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-05T18:37:35+00:00"
+   "published": "2026-11-08T15:37:25+00:00"
+  },
+  {
+   "category": "Business",
+   "headline": "Stock markets end marginally lower in special Muhurat trading, snapping seven-day rally",
+   "summary": "In the 30 Sensex firms, Mahindra & Mahindra, InterGlobe Aviation, Trent, Infosys, Bharti Airtel and Axis Bank were among the biggest laggards.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece",
+   "top": false,
+   "published": "2026-11-08T11:13:37+00:00"
+  },
+  {
+   "category": "Business",
+   "headline": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+   "summary": "The planned spending comes as the group seeks to scale up businesses built over recent years, including airports and data centres, while bringing its large manufacturing investments closer to commercial operation.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+   "top": false,
+   "published": "2026-11-08T06:48:51+00:00"
+  },
+  {
+   "category": "Business",
+   "headline": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks",
+   "summary": "The company's board has already approved the purchase of a few vessels, and tenders were issued several months ago, Director of Finance Anuj Jain said during its second-quarter earnings call.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece",
+   "top": false,
+   "published": "2026-11-08T06:15:41+00:00"
+  },
+  {
+   "category": "Business",
+   "headline": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
+   "summary": "Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+   "top": false,
+   "published": "2026-11-08T06:09:18+00:00"
+  },
+  {
+   "category": "Business",
+   "headline": "He spent $50,000 on Labubus but now the craze is dying",
+   "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-07T23:02:35+00:00"
+  },
+  {
+   "category": "Business",
+   "headline": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+   "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sidesFive European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit.The leaders of Germany, Belgium, the Netherlands, Luxembourg and Denmark, said deeper cooperation on clean energy would benefit both sides in a letter to Ursula von der Leyen and António Costa.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+   "top": false,
+   "published": "2026-11-07T15:30:35+00:00"
   },
   {
    "category": "Business",
@@ -686,85 +767,40 @@
    "published": "2026-11-07T04:32:48+00:00"
   },
   {
-   "category": "Business",
-   "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
-   "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "category": "Education",
+   "headline": "Free school milk scheme could end after 50 years",
+   "summary": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6wydxxg8eexo?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-06T21:49:50+00:00"
+   "published": "2026-11-08T21:51:43+00:00"
   },
   {
-   "category": "Business",
-   "headline": "Why the US midterms sparked an AI stock selloff",
-   "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+   "category": "Education",
+   "headline": "News from the world of Education: November 9, 2026",
+   "summary": "Information on colleges, admissions, scholarships, events, MoUs, and more.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/education/news-from-the-world-of-education-november-9-2026/article71681205.ece",
+   "top": false,
+   "published": "2026-11-08T20:45:23+00:00"
+  },
+  {
+   "category": "Education",
+   "headline": "Secondary schools told to stop teaching GCSEs before Year 10",
+   "summary": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-06T18:32:16+00:00"
+   "published": "2026-11-08T19:00:32+00:00"
   },
   {
-   "category": "Business",
-   "headline": "ONGC expects to acquire operatorship rights in Venezuelan oil projects in 3-6 months’ time",
-   "summary": "ONGC holds 40% interest in Venezuela’s San Cristobal oil project and 11% stake in Carabobo project.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
-   "top": false,
-   "published": "2026-11-06T18:28:54+00:00"
-  },
-  {
-   "category": "Business",
-   "headline": "CBI books Future Retail, Kishore Biyani, others in ₹904 crore bank fraud case; searches conducted in Mumbai",
-   "summary": "SBI alleged that the company failed to utilise the sanctioned funds in accordance with the terms and conditions of the loan facilities.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
-   "top": false,
-   "published": "2026-11-06T17:12:28+00:00"
-  },
-  {
-   "category": "Business",
-   "headline": "Jindal SAW to set up 300,000-tonne seamless pipe plant in Abu Dhabi",
-   "summary": "The project will be the UAE’s first seamless pipe manufacturing facility using PQF technology and the second of its kind in the Middle East and North Africa (MENA) region.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
-   "top": false,
-   "published": "2026-11-06T16:14:19+00:00"
-  },
-  {
-   "category": "Business",
-   "headline": "TASE Global to receive ₹300 crore investment from ValueQuest’s Tristar Fund",
-   "summary": "The Chennai-based precision engineering company will use the investment to expand capacity, integrate U.S. operations and pursue larger OEM programmes.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
-   "top": false,
-   "published": "2026-11-06T16:10:03+00:00"
-  },
-  {
-   "category": "Business",
-   "headline": "Sugar output jumps 9.65 lakh tonnes as 184 mills begin crushing",
-   "summary": "With opening stocks of 36 lakh tonnes carried over from the previous season, domestic sugar availability remains comfortable, ISMA said.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/sugar-output-jumps-965-lakh-tonnes-as-184-mills-begin-crushing/article71674353.ece",
-   "top": false,
-   "published": "2026-11-06T13:46:12+00:00"
-  },
-  {
-   "category": "Business",
-   "headline": "IT Ministry approves 12 more projects under ECMS scheme",
-   "summary": "The Electronics Component Manufacturing Scheme (ECMS) allows the government to approve turnover-linked incentives across the component industry.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Industry/it-ministry-approves-12-more-projects-under-ecms-scheme/article71673913.ece",
-   "top": false,
-   "published": "2026-11-06T12:38:10+00:00"
-  },
-  {
-   "category": "Business",
-   "headline": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-   "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxiElon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for.",
+   "category": "Education",
+   "headline": "Abdul El-Sayed’s Oxford years: PhD, political influences and sporting distinction",
+   "summary": "Michigan senator-elect’s former peers recall his time at university in Britain – and his love of coronation chicken sandwichesIn the cold, twilight days of 2008, inside the University of Michigan’s fortress-like Fleming administration building, one student.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
    "top": false,
-   "published": "2026-11-06T12:38:05+00:00"
+   "published": "2026-11-08T15:26:04+00:00"
   },
   {
    "category": "Education",
@@ -866,40 +902,58 @@
    "published": "2026-11-06T07:12:22+00:00"
   },
   {
-   "category": "Education",
-   "headline": "Career guidance for children: how to spot their strengths",
+   "category": "Environment",
+   "headline": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+   "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction planAnalysis: Climate always comes second – are green issues slipping down Burnham’s agenda?Ministers are expected to make steep cuts to the government’s.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+   "top": false,
+   "published": "2026-11-08T17:51:19+00:00"
+  },
+  {
+   "category": "Environment",
+   "headline": "Nicola Jennings on Cop31 in Turkey – cartoon",
    "summary": "",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/education/career-guidance-for-children-how-to-spot-their-strengths/article71665268.ece",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/08/nicola-jennings-on-cop31-in-turkey-cartoon",
    "top": false,
-   "published": "2026-11-06T06:51:01+00:00"
+   "published": "2026-11-08T17:11:12+00:00"
   },
   {
-   "category": "Education",
-   "headline": "It’s time for an Indian Spelling Bee, and the prep is starting with Shashi Tharoor",
-   "summary": "An Indian Spelling Bee should test what Indian classrooms value: spelling, meaning and pronunciation, in British English, climbing from school to city to nation.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/education/its-time-for-an-indian-spelling-bee-and-the-prep-is-starting-with-shashi-tharoor/article71666008.ece",
+   "category": "Environment",
+   "headline": "Killing a dangerous coral",
+   "summary": "A Brazilian biologist and a team of volunteer divers are killing coral to save a marine protected area just off the famous Ipanema beach.",
+   "source": "Mongabay",
+   "url": "https://news.mongabay.com/short-article/2026/11/killing-a-dangerous-coral/",
    "top": false,
-   "published": "2026-11-06T06:33:57+00:00"
+   "published": "2026-11-08T15:40:02+00:00"
   },
   {
-   "category": "Education",
-   "headline": "'Misleading' student loans information left out examples of higher-salary repayments",
-   "summary": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+   "category": "Environment",
+   "headline": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+   "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrappedA beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from some ranchers, who.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
    "top": false,
-   "published": "2026-11-06T06:06:36+00:00"
+   "published": "2026-11-08T15:00:43+00:00"
   },
   {
-   "category": "Education",
-   "headline": "Google sued over suicide-related AI chats on school computer",
-   "summary": "The teenager was not able to access Google's Gemini app, nor OpenAI's ChatGPT, because they were blocked by her school.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "category": "Environment",
+   "headline": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+   "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continuesDatacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules that protect from.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
    "top": false,
-   "published": "2026-11-06T05:44:46+00:00"
+   "published": "2026-11-08T13:00:40+00:00"
+  },
+  {
+   "category": "Environment",
+   "headline": "Who’s who at Cop31: key players at the climate talks",
+   "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021, while in opposition, before his successful election campaign.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+   "top": false,
+   "published": "2026-11-08T11:48:56+00:00"
   },
   {
    "category": "Environment",
@@ -983,58 +1037,22 @@
    "published": "2026-11-06T16:16:11+00:00"
   },
   {
-   "category": "Environment",
-   "headline": "‘Stringing me along’: After 7 years, trial in Indigenous forest guardian killing delayed again",
-   "summary": "Why hasn’t the trial for the 2019 killing of forest guardian Paulo Paulino Guajajara and the attempted killing of fellow guardian Láercio Guajajara, in the Brazilian Amazon, taken place yet?",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/stringing-me-along-after-7-years-trial-in-indigenous-forest-guardian-killing-delayed-again/",
-   "top": false,
-   "published": "2026-11-06T15:41:52+00:00"
-  },
-  {
-   "category": "Environment",
-   "headline": "In Alaska’s capital, food comes by water, air or, most often, community sharing",
-   "summary": "Juneau has little arable land, a short growing season and few farmers – and deep traditions of residents and the land feeding each otherForty miles north-west of Alaska’s capital, the highway just ends.At Glacier Highway’s most northern point, the pavement turns to gravel, the gravel widens into a turnaround and the tire tracks curve back the way they came.",
+   "category": "Climate & Energy",
+   "headline": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
+   "summary": "Ineos is driving exports with potentially far-reaching environmental and social repercussions“My children started getting sick,” says Lois Bower-Bjornson, a campaigner at the Clean Air Council in Washington County, Pennsylvania.“My oldest son had rashes all over his body.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
    "top": false,
-   "published": "2026-11-06T15:00:46+00:00"
+   "published": "2026-11-08T13:00:41+00:00"
   },
   {
-   "category": "Environment",
-   "headline": "Mediterranean fisheries commission adopts species management plans but punts on deep-sea protections",
-   "summary": "The international organization responsible for regulating fisheries in the Mediterranean and Black seas concluded its annual meeting with the adoption of new management plans for some iconic species.",
-   "source": "Mongabay",
-   "url": "https://news.mongabay.com/2026/11/mediterranean-fisheries-commission-adopts-species-management-plans-but-punts-on-deep-sea-protections/",
-   "top": false,
-   "published": "2026-11-06T14:43:47+00:00"
-  },
-  {
-   "category": "Environment",
-   "headline": "Australia’s coal and gas approvals are starting to stink ahead of Cop31 | Jess Harwood",
-   "summary": "What happened to climate injustice?",
+   "category": "Climate & Energy",
+   "headline": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+   "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absentAs the planet faces unprecedented human-caused global heating, heads of government are meeting for the next fortnight for the latest round of climate talks.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/australias-coal-and-gas-approvals-are-starting-to-stink-ahead-of-cop31",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
    "top": false,
-   "published": "2026-11-06T14:00:44+00:00"
-  },
-  {
-   "category": "Environment",
-   "headline": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-   "summary": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a survey has shown, with most feeling action must be taken soon – as.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-   "top": false,
-   "published": "2026-11-06T12:27:54+00:00"
-  },
-  {
-   "category": "Environment",
-   "headline": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
-   "summary": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf populationIdaho officials paid hunters thousands of dollars for killing a dozen newborn wolf pups this spring, including what appears to be at least.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
-   "top": false,
-   "published": "2026-11-06T12:00:42+00:00"
+   "published": "2026-11-08T11:00:38+00:00"
   },
   {
    "category": "Climate & Energy",
@@ -1062,6 +1080,15 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
    "top": false,
    "published": "2026-11-07T10:00:08+00:00"
+  },
+  {
+   "category": "Climate & Energy",
+   "headline": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+   "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progressIt was a curious way of conducting negotiations.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+   "top": false,
+   "published": "2026-11-07T05:00:02+00:00"
   },
   {
    "category": "Climate & Energy",
@@ -1145,166 +1172,202 @@
    "published": "2026-11-03T13:48:04+00:00"
   },
   {
-   "category": "Climate & Energy",
-   "headline": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-   "summary": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes.",
+   "category": "Science",
+   "headline": "A glimmer of good news for Britain's sleepy dormouse",
+   "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-09T00:56:43+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Scientists discover stunning new Amazon fish that may already be endangered",
+   "summary": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+   "top": false,
+   "published": "2026-11-08T23:56:14+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+   "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+   "top": false,
+   "published": "2026-11-08T23:24:50+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+   "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+   "top": false,
+   "published": "2026-11-08T22:45:01+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+   "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+   "top": false,
+   "published": "2026-11-08T22:14:42+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Dormice 'thrive' at National Trust site",
+   "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T12:22:05+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "A 24-hour fast triggers a surprising repair response in the gut",
+   "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+   "top": false,
+   "published": "2026-11-08T11:06:30+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "MIT scientists turn immune cells into cancer killers inside the body",
+   "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+   "top": false,
+   "published": "2026-11-08T10:52:31+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+   "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+   "top": false,
+   "published": "2026-11-08T10:11:25+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Low testosterone linked to 18% higher risk of dying from cancer",
+   "summary": "A major international study tracking more than 26,000 men found that very low testosterone levels were associated with an 18% higher risk of dying from cancer later in life.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012301.htm",
+   "top": false,
+   "published": "2026-11-08T10:10:50+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+   "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+   "top": false,
+   "published": "2026-11-08T08:14:23+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Countryside managers prepare for climate change",
+   "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T07:16:55+00:00"
+  },
+  {
+   "category": "Science",
+   "headline": "Hundreds of seagrass shoots found in estuary",
+   "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T07:06:13+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "Nasa seeks next generation of astronauts to live and work on the moon",
+   "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’Nasa has launched a callout for a new generation of astronauts as it searches for explorers who could live and work on the moon.Opening applications for.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+   "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
    "top": false,
-   "published": "2026-11-03T13:00:07+00:00"
+   "published": "2026-11-08T16:54:44+00:00"
   },
   {
-   "category": "Climate & Energy",
-   "headline": "The Amazon’s canary in the coalmine: what a tropical fish can tell us about climate upheaval",
-   "summary": "Scientist Adalberto Luis Val’s pioneering research on the tambaqui fish is revealing the effect of climate disruption in Brazil, with global implications for biodiversity and food securityAs a boy in rural São Paulo, Adalberto Luis Val used to stare into the lake where his father took him fishing and wonder how all those creatures swimming below stayed alive.",
+   "category": "Space",
+   "headline": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+   "summary": "Before the rise of online entertainment sites, this is where genre fans got their news.",
+   "source": "Space.com",
+   "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+   "top": false,
+   "published": "2026-11-08T16:00:00+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "NASA Announces $1 Million to Students for Moon Base Challenge",
+   "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida.",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+   "top": false,
+   "published": "2026-11-08T15:26:38+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
+   "summary": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
+   "top": false,
+   "published": "2026-11-08T15:25:42+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
+   "summary": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
+   "source": "Space.com",
+   "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
+   "top": false,
+   "published": "2026-11-08T13:00:00+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
+   "summary": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
+   "top": false,
+   "published": "2026-11-08T11:00:00+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "APOD: 2026 November 8 – Major Fireball Meteor",
+   "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+   "top": false,
+   "published": "2026-11-08T05:05:00+00:00"
+  },
+  {
+   "category": "Space",
+   "headline": "Ukraine’s new frontier: how space has become critical to balance of the war",
+   "summary": "In a war driven by drones and battlefield sensors, access to space is essential.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/nov/03/the-amazons-canary-in-the-coalmine-what-a-tropical-fish-can-tell-us-about-climate-upheaval",
+   "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
    "top": false,
-   "published": "2026-11-03T12:00:05+00:00"
+   "published": "2026-11-08T05:00:30+00:00"
   },
   {
-   "category": "Climate & Energy",
-   "headline": "UK’s most polluting power plant could power country’s largest AI datacentre",
-   "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn deal to build AI infrastructure on the site of the.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+   "category": "Space",
+   "headline": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+   "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
    "top": false,
-   "published": "2026-11-03T11:55:28+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-   "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-   "top": false,
-   "published": "2026-11-07T10:16:19+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
-   "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
-   "top": false,
-   "published": "2026-11-07T10:00:03+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Scientists discover Europe's ancient forests were nothing like we imagined",
-   "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-   "top": false,
-   "published": "2026-11-07T09:44:48+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
-   "summary": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
-   "top": false,
-   "published": "2026-11-07T09:12:43+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "New Forest wildfire restoration work begins",
-   "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T07:14:33+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-   "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T02:03:28+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-   "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
-   "top": false,
-   "published": "2026-11-07T00:33:47+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "A compound hidden in broccoli could help fight a devastating genetic disease",
-   "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
-   "top": false,
-   "published": "2026-11-06T23:30:16+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "A dead star's mysterious rings reveal what could happen when our Sun dies",
-   "summary": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
-   "top": false,
-   "published": "2026-11-06T22:12:56+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
-   "summary": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture.",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
-   "top": false,
-   "published": "2026-11-06T21:28:04+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
-   "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-06T16:43:30+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "A really simple guide to climate change",
-   "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-06T16:40:51+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "What is the Paris Agreement and why does 1.5C matter?",
-   "summary": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-06T16:39:07+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "What is net zero and is the UK on track to achieve it?",
-   "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-06T16:22:51+00:00"
-  },
-  {
-   "category": "Science",
-   "headline": "Wales scraps controversial Uganda tree-planting scheme",
-   "summary": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-06T15:27:44+00:00"
+   "published": "2026-11-07T22:47:03+00:00"
   },
   {
    "category": "Space",
@@ -1361,76 +1424,40 @@
    "published": "2026-11-07T13:00:00+00:00"
   },
   {
-   "category": "Space",
-   "headline": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
-   "summary": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency.",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+   "category": "Technology",
+   "headline": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
    "top": false,
-   "published": "2026-11-07T11:00:00+00:00"
+   "published": "2026-11-08T06:00:33+00:00"
   },
   {
-   "category": "Space",
-   "headline": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-   "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-   "source": "NASA",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+   "category": "Technology",
+   "headline": "Hawking, the celebrity theoretical physicist",
+   "summary": "On November 8, 2018, one of the earliest wheelchairs used by Stephen Hawking fetched a whopping sum of nearly £300,000, while a copy of his doctoral thesis fetched almost £585,000.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
    "top": false,
-   "published": "2026-11-07T05:05:00+00:00"
+   "published": "2026-11-08T05:24:36+00:00"
   },
   {
-   "category": "Space",
-   "headline": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
-   "summary": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+   "category": "Technology",
+   "headline": "Can the Zelda remake capture the magic of the original?",
+   "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T01:41:58+00:00"
+   "published": "2026-11-08T00:37:45+00:00"
   },
   {
-   "category": "Space",
-   "headline": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
-   "summary": "On Nov. 6, 1572, the German astronomer Wolfgang Schulër observed a supernova later caleld the Tycho supernova with his bare eyes. Here's why it mattered.",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+   "category": "Technology",
+   "headline": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+   "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technologyThe Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
    "top": false,
-   "published": "2026-11-06T22:05:58+00:00"
-  },
-  {
-   "category": "Space",
-   "headline": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
-   "summary": "AST SpaceMobile plans to launch its broadband satellites on a new rocket called Blacklift, which it will build in house and plans to start flying in 2028.",
-   "source": "Space.com",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
-   "top": false,
-   "published": "2026-11-06T22:00:00+00:00"
-  },
-  {
-   "category": "Space",
-   "headline": "What's that bright 'star' in the early morning sky? It's not a star at all!",
-   "summary": "Spotted a dazzling light in the eastern sky before sunrise? It's Venus, and the planet is only going to get brighter as it heads toward its spectacular peak later this month.",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
-   "top": false,
-   "published": "2026-11-06T21:00:00+00:00"
-  },
-  {
-   "category": "Space",
-   "headline": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
-   "summary": "The Unistellar Envision smart binoculars have an augmented reality (AR) overlay that provides smart functionality to 10x50 binoculars, enabling night sky and landmark identification.",
-   "source": "Space.com",
-   "url": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
-   "top": false,
-   "published": "2026-11-06T20:00:00+00:00"
-  },
-  {
-   "category": "Space",
-   "headline": "See the space race like you’ve never seen it before in PBS’s new living documentary, ‘We Chose to Go to the Moon’",
-   "summary": "Hear Neil Armstrong's son and granddaughter sing a moving tribute to the legendary Apollo 11 astronaut.",
-   "source": "Space.com",
-   "url": "https://www.space.com/entertainment/space-movies-shows/see-the-space-race-like-youve-never-seen-it-before-in-pbss-new-living-documentary-we-chose-to-go-to-the-moon",
-   "top": false,
-   "published": "2026-11-06T19:00:00+00:00"
+   "published": "2026-11-07T20:03:23+00:00"
   },
   {
    "category": "Technology",
@@ -1440,6 +1467,42 @@
    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/as-cop31-comes-to-turkiye-satellites-reveal-a-landfill-methane-problem/article71679128.ece",
    "top": false,
    "published": "2026-11-07T17:36:01+00:00"
+  },
+  {
+   "category": "Technology",
+   "headline": "Festivals, infections and more | Health Wrap Ep. 58",
+   "summary": "In the 58th episode of Health Wrap by The Hindu, Ramya Kannan, Health Editor, The Hindu, and Zubeda Hamid, Senior Assistant Editor, The Hindu, discuss the public health concerns surrounding festivals, marking Diwali, including air pollution and AQI.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/health/festivals-infections-and-more-health-wrap-ep-58/article71678916.ece",
+   "top": false,
+   "published": "2026-11-07T15:10:23+00:00"
+  },
+  {
+   "category": "Technology",
+   "headline": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+   "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costsWhile Elon Musk has often touted putting datacenters in space, reports suggest that another geographic area may soon become a widespread target.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+   "top": false,
+   "published": "2026-11-07T14:00:14+00:00"
+  },
+  {
+   "category": "Technology",
+   "headline": "Willem Einthoven’s Nobel-winning discovery that laid the foundations of the modern ECG",
+   "summary": "Willem Einthoven’s development of the string galvanometer transformed the recording of cardiac electrical signals and laid the foundations of modern electrocardiography.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/health/willem-einthovens-nobel-winning-discovery-that-laid-the-foundations-of-the-modern-ecg/article71677371.ece",
+   "top": false,
+   "published": "2026-11-07T12:49:59+00:00"
+  },
+  {
+   "category": "Technology",
+   "headline": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+   "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the warA year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with technical problems.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+   "top": false,
+   "published": "2026-11-07T12:00:12+00:00"
   },
   {
    "category": "Technology",
@@ -1496,67 +1559,40 @@
    "published": "2026-11-07T08:48:45+00:00"
   },
   {
-   "category": "Technology",
-   "headline": "How improving your daily lifestyle can help decrease the risk of endometrial cancer",
-   "summary": "The incidence of endometrial cancer is rising in India.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/health/how-improving-your-daily-lifestyle-can-help-decrease-the-risk-of-endometrial-cancer/article71673951.ece",
+   "category": "AI",
+   "headline": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government.",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
    "top": false,
-   "published": "2026-11-07T08:38:55+00:00"
+   "published": "2026-11-08T22:54:50+00:00"
   },
   {
-   "category": "Technology",
-   "headline": "Faith meets fitness: The Keralam church where prayers come with pull-ups",
-   "summary": "St. Joseph’s Church in Kuriachira, Thrissur, has set up an open gym to promote fitness among parishioners.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/kerala/faith-meets-fitness-the-keralam-church-where-prayers-come-with-pull-ups/article71677600.ece",
+   "category": "AI",
+   "headline": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company.",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
    "top": false,
-   "published": "2026-11-07T08:23:02+00:00"
+   "published": "2026-11-08T20:22:39+00:00"
   },
   {
-   "category": "Technology",
-   "headline": "U.S. FBI and regulators issue warning about cyber-attacks targeting industrial refrigerators",
-   "summary": "The U.S. regulators warned organisations about “ongoing cyber threat activity targeting industrial refrigeration and cold chain monitoring systems,” shortly after these hacks led to huge amounts of food waste across European supermarkets.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece",
+   "category": "AI",
+   "headline": "Apple is racing to make Siri more agentic",
+   "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
    "top": false,
-   "published": "2026-11-07T07:44:22+00:00"
+   "published": "2026-11-08T19:18:19+00:00"
   },
   {
-   "category": "Technology",
-   "headline": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-   "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised himCan smart thermostats and AI reduce your heating bills?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+   "category": "AI",
+   "headline": "Elvis and Eminem rights holders are suing Suno",
+   "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
    "top": false,
-   "published": "2026-11-07T07:00:07+00:00"
-  },
-  {
-   "category": "Technology",
-   "headline": "Lung cancer rising faster among women in Karnataka",
-   "summary": "While men account for a higher number of cases, incidence among women is increasing at a faster rate, data shows.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/karnataka/lung-cancer-rising-faster-among-women-in-karnataka/article71674996.ece",
-   "top": false,
-   "published": "2026-11-07T05:26:09+00:00"
-  },
-  {
-   "category": "Technology",
-   "headline": "Keralam Child Development Centre gets ₹35-lakh grant to study autism-related parental grief",
-   "summary": "Three-year project will examine chronic sorrow and coping mechanisms in ASD families.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-child-development-centre-gets-35-lakh-grant-to-study-autism-related-parental-grief/article71674060.ece",
-   "top": false,
-   "published": "2026-11-07T05:09:14+00:00"
-  },
-  {
-   "category": "Technology",
-   "headline": "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR",
-   "summary": "The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
-   "top": false,
-   "published": "2026-11-07T05:06:08+00:00"
+   "published": "2026-11-08T17:23:19+00:00"
   },
   {
    "category": "AI",
@@ -1614,42 +1650,6 @@
   },
   {
    "category": "AI",
-   "headline": "All the latest updates on AI data centers",
-   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "top": false,
-   "published": "2026-11-06T20:02:22+00:00"
-  },
-  {
-   "category": "AI",
-   "headline": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-   "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-   "top": false,
-   "published": "2026-11-06T18:10:10+00:00"
-  },
-  {
-   "category": "AI",
-   "headline": "AI is the new dating dealbreaker",
-   "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does.",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-   "top": false,
-   "published": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "category": "AI",
-   "headline": "Big Tech lost big in the 2026 election",
-   "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI.",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-   "top": false,
-   "published": "2026-11-06T16:38:02+00:00"
-  },
-  {
-   "category": "AI",
    "headline": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
    "source": "MIT Tech Review",
@@ -1695,12 +1695,39 @@
   },
   {
    "category": "Health",
+   "headline": "New contract will make it 'easier' to get GP appointments",
+   "summary": "The Department of Health (DoH) said it will give an additional £40m across two years for \"improvements in patient access and primary care activity\".",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q1w8q0e3o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-09T00:00:27+00:00"
+  },
+  {
+   "category": "Health",
+   "headline": "Paramedic sustains multiple injuries in hospital assault",
+   "summary": "The NI Ambulance Service said the paramedic sustained injuries to the back of her head, neck, face, and hands during the incident.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv0487qpj3o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T19:19:26+00:00"
+  },
+  {
+   "category": "Health",
+   "headline": "'Cancer treatment plummeted me into menopause'",
+   "summary": "Women are calling for more support to deal with menopause caused by their cancer treatment.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5y8ze8me7o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T09:17:32+00:00"
+  },
+  {
+   "category": "Health",
    "headline": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
    "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
    "source": "BBC",
    "url": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T21:52:21+00:00"
+   "published": "2026-11-08T07:04:36+00:00"
   },
   {
    "category": "Health",
@@ -1731,30 +1758,21 @@
   },
   {
    "category": "Health",
-   "headline": "Under-16s could be banned from buying energy drinks in Wales",
-   "summary": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do?at_medium=RSS&at_campaign=rss",
+   "headline": "Cancer care: Long battle for affordable treatment",
+   "summary": "Advances in oncology have improved treatment options, but their benefits remain out of reach for many patients who cannot afford to complete the prescribed course.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/karnataka/cancer-care-long-battle-for-affordable-treatment/article71664761.ece",
    "top": false,
-   "published": "2026-11-06T17:10:28+00:00"
+   "published": "2026-11-06T06:25:47+00:00"
   },
   {
    "category": "Health",
-   "headline": "Health minister instructs trusts to pause cuts to Phone First service",
-   "summary": "The triage line was scrapped in Belfast and was to close in the Northern Trust later this month.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/crn8wnq05dyqo?at_medium=RSS&at_campaign=rss",
+   "headline": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
+   "summary": "The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
    "top": false,
-   "published": "2026-11-06T06:22:07+00:00"
-  },
-  {
-   "category": "Health",
-   "headline": "'The veil of shame around postnatal depression needs to go'",
-   "summary": "Mums are helping other parents to recognise the signs of postnatal depression and psychosis.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cv62kel8wnp0o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-06T06:20:44+00:00"
+   "published": "2026-11-06T05:13:52+00:00"
   },
   {
    "category": "Health",
@@ -1811,22 +1829,13 @@
    "published": "2026-11-05T08:14:03+00:00"
   },
   {
-   "category": "Health",
-   "headline": "Class 3 student dies after collapsing in classroom, police register case",
-   "summary": "",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/cities/Delhi/class-3-student-dies-after-collapsing-in-classroom-police-register-case/article71667223.ece",
+   "category": "Law & Justice",
+   "headline": "The Guardian view on a tale of two activists: Joshua Wong and Au Kam San should not be behind bars | Editorial",
+   "summary": "The latest vindictive prosecutions and harsh sentences in Hong Kong and Macau are further testimony to China’s ruthless suppression of dissentOne is internationally famous – he was once dubbed “the Face of Protest” by Time magazine – and the other is little known outside his home town.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-a-tale-of-two-activists-joshua-wong-and-au-kam-san-should-not-be-behind-bars",
    "top": false,
-   "published": "2026-11-05T04:40:37+00:00"
-  },
-  {
-   "category": "Health",
-   "headline": "How is Delhi implementing restrictions to reduce air pollution?",
-   "summary": "From Automatic Number Plate Recognition cameras to AI-enabled Integrated Control and Command Centres ICCC and manual checking, the authorities have adopted a mixed approach to impose the restrictions with varying degrees of success.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/cities/Delhi/how-is-delhi-implementing-restrictions-to-reduce-air-pollution/article71668565.ece",
-   "top": false,
-   "published": "2026-11-05T04:39:58+00:00"
+   "published": "2026-11-08T17:30:45+00:00"
   },
   {
    "category": "Law & Justice",
@@ -1955,130 +1964,148 @@
    "published": "2026-11-02T13:00:41+00:00"
   },
   {
-   "category": "Law & Justice",
-   "headline": "Domestic violence survivor living ‘in terror’ after attacker released without tag",
-   "summary": "Woman among hundreds asking why electronic trackers not fitted before offenders leave prisonA domestic violence survivor who was punched, threatened with a knife and had her front door kicked in by her former partner has been “living in terror” because he had.",
+   "category": "Society",
+   "headline": "Only 6.4% of stroke survivors receive enough therapy, finds ‘damning’ report",
+   "summary": "Stroke Association says widespread lack of rehabilitation hinders patients’ chances of regaining physical and mental functionFewer than one in 15 stroke survivors are getting the amount of therapy the NHS should provide to maximise their chances of recovery.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/02/domestic-violence-survivor-terror-attacker-released-without-tag",
+   "url": "https://www.theguardian.com/society/2026/nov/09/few-stroke-survivors-receive-enough-therapy-damning-report",
    "top": false,
-   "published": "2026-11-02T07:00:35+00:00"
+   "published": "2026-11-09T00:01:53+00:00"
   },
   {
    "category": "Society",
-   "headline": "Thousands watch elaborate carnival cart procession",
-   "summary": "The event in Bridgwater, Somerset, attracted people from all over the country to watch.",
+   "headline": "Maya Jama steps down as host of reality TV show Love Island",
+   "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cm62ypz1ywk1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T23:05:17+00:00"
+   "published": "2026-11-08T21:19:48+00:00"
   },
   {
    "category": "Society",
-   "headline": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-   "summary": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+   "headline": "Dense fog threatens Monday morning rush-hour disruption",
+   "summary": "Fog could disrupt Monday morning’s commute.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T21:50:58+00:00"
+   "published": "2026-11-08T20:01:04+00:00"
   },
   {
    "category": "Society",
-   "headline": "Rob Brydon's battle to stay in character playing Peter O'Toole",
-   "summary": "Brydon stars in a new radio drama looking at the ups and downs of O'Toole's professional career.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c8p3g675pplko?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T18:16:00+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "Third person arrested after car damaged by gunshots",
-   "summary": "A 29-year-old man was taken into custody on Saturday morning following two earlier arrests on Friday.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmkgekz79vd9o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T15:58:16+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "Two men arrested after boy injured in sword attack",
-   "summary": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T15:10:54+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "Evacuations in Liverpool city centre after car crash causes gas leak",
-   "summary": "The impact of the crash caused a gas leak and neighbouring buildings have been evacuated as a precaution.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c9203x7pj0kjo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T15:06:40+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "Baxters fish soup cans recalled over fears they could 'swell and rupture'",
-   "summary": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T14:28:40+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "Mahjong in India: The tile game finding its way into Deepavali parties",
-   "summary": "This Deepavali, mahjong is making its way to parties across India, challenging the traditional taash gathering.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/life-and-style/mahjong-in-india-the-tile-game-finding-its-way-into-deepavali-parties/article71672834.ece",
-   "top": false,
-   "published": "2026-11-07T13:27:07+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "The Deepavali 2026 guide: What to eat, gift and wear this season",
-   "summary": "From fusion sweets to indie gifts, here’s what’s worth your attention this festive season.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/society/the-deepavali-2026-guide-what-to-eat-gift-and-wear-this-season/article71669302.ece",
-   "top": false,
-   "published": "2026-11-07T13:22:36+00:00"
-  },
-  {
-   "category": "Society",
-   "headline": "In defense of feral children",
-   "summary": "Adults complain and say kids should occupy more space in the world.",
+   "headline": "Heavy rain floods displaced families’ tents in Gaza – in pictures",
+   "summary": "The first winter storm began affecting the people of Gaza this weekend with heavy rain hitting on Saturday.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/ng-interactive/2026/nov/07/feral-children-parenting",
+   "url": "https://www.theguardian.com/world/gallery/2026/nov/08/heavy-rain-floods-displaced-families-tents-gaza-in-pictures",
    "top": false,
-   "published": "2026-11-07T13:00:11+00:00"
+   "published": "2026-11-08T18:50:12+00:00"
   },
   {
    "category": "Society",
-   "headline": "Sonia Gandhi’s ‘Belonging’: when legal review becomes a publishing battleground",
-   "summary": "Why are legal reads necessary, and who has the last word?",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/society/soniagandhi-book-belonging-penguin-india-legal-review-censorship/article71418447.ece",
+   "headline": "King leads solemn Remembrance Sunday service at Cenotaph",
+   "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T11:20:15+00:00"
+   "published": "2026-11-08T18:20:53+00:00"
   },
   {
    "category": "Society",
-   "headline": "Sonia Gandhi memoir | Authors and publishers weigh in on dispute over ‘Belonging’",
-   "summary": "Last week, Penguin India pulled out of publishing the Congress leader’s memoir after the two sides could not resolve a “particular issue”.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/society/soniagandhi-penguin-india-authors-publishers-agents-comment/article71418767.ece",
+   "headline": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
+   "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing, union findsAlmost half of the NHS trusts in England have no earmarked funding to cover staff on maternity leave, according to analysis that raises fresh.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
    "top": false,
-   "published": "2026-11-07T11:19:39+00:00"
+   "published": "2026-11-08T17:42:39+00:00"
   },
   {
    "category": "Society",
-   "headline": "‘I’d always disliked politics’ | An excerpt from Sonia Gandhi’s ‘Belonging: A Journey of Love’",
-   "summary": "In her memoir, the senior Congress party leader revisits the years of hesitation and personal conflict before duty finally prevailed.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/books/excerpt-sonia-gandhi-memoir-belonging-family-duty-congress-party/article71655995.ece",
+   "headline": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
+   "summary": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T11:13:22+00:00"
+   "published": "2026-11-08T17:42:28+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "Older women are as varied and individual as we have ever been | Letters",
+   "summary": "Thank you, Jo Brand, for not offering us a formula for growing older, writes Dr Denise Taylor.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/08/older-women-are-as-varied-and-individual-as-we-have-ever-been",
+   "top": false,
+   "published": "2026-11-08T16:31:13+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "What are you yearning for? We took to the streets to find out",
+   "summary": "Longing for someone – or something – can be even more thrilling than getting what you want. That knowledge has inspired endless movies, but what do real people yearn for?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/08/what-are-you-yearning-for-we-took-to-the-streets-to-find-out",
+   "top": false,
+   "published": "2026-11-08T16:00:44+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "It is time the government treated hunger and obesity as two interlinked problems | Letter",
+   "summary": "The cabinet committee the MPs want should become the delivery arm of a statutory right to adequate food, writes Prof Kent Buse of the World Obesity FederationYour report (UK government’s obesity plan ‘doomed to fail’, MPs warn, 30 October) arrives a fortnight.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/08/it-is-time-the-government-treated-hunger-and-obesity-as-two-interlinked-problems",
+   "top": false,
+   "published": "2026-11-08T15:40:39+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+   "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T15:37:57+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "Tired all the time? What to know about B12 and if it actually boosts energy levels",
+   "summary": "Med spas are raving about vitamin B12 shots as a pick-me-up. But do they actually make you feel more energized?If you spend time on social media, you may have seen med spa owners and employees describing vitamin B12 shots as a pick-me-up.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency",
+   "top": false,
+   "published": "2026-11-08T15:00:42+00:00"
+  },
+  {
+   "category": "Society",
+   "headline": "‘The blue wave isn’t applicable to trans people’: advocates in Washington state prepare to fight ban",
+   "summary": "Legal challenge against ballot initiative that bans transgender girls’ participation in girls’ school sports is poised to set off a battle over rightsA coalition of advocacy groups are preparing to mount a legal challenge against a Washington state ballot.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/08/trans-ban-washington-state-legal-battle",
+   "top": false,
+   "published": "2026-11-08T14:00:45+00:00"
+  },
+  {
+   "category": "Literature",
+   "headline": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+   "summary": "",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
+   "top": false,
+   "published": "2026-11-08T12:00:40+00:00"
+  },
+  {
+   "category": "Literature",
+   "headline": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
+   "summary": "As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling authorIf you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s books.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/books/2026/nov/08/no-tech-no-texts-just-childhood-author-liz-pichon-on-the-secrets-behind-her-multi-million-selling-tom-gates-series",
+   "top": false,
+   "published": "2026-11-08T12:00:39+00:00"
+  },
+  {
+   "category": "Literature",
+   "headline": "The efficiency trap: why optimising everything can backfire, badly",
+   "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerousWe have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+   "top": false,
+   "published": "2026-11-08T12:00:39+00:00"
   },
   {
    "category": "Literature",
@@ -2091,12 +2118,39 @@
   },
   {
    "category": "Literature",
+   "headline": "Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’",
+   "summary": "Ahead of the launch of her book, Sonia Gandhi speaks to The Hindu, answering a number of questions — personal and political.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/sonia-gandhi-interview-great-damage-done-to-the-fabric-of-india-by-bjp/article71674284.ece",
+   "top": false,
+   "published": "2026-11-07T10:56:29+00:00"
+  },
+  {
+   "category": "Literature",
    "headline": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
    "summary": "A trip to the Scottish islands, a psychological experiment, a chance encounter in a drugstore… the finalists for this year’s Booker prize reveal their inspirations Who knows where a novel really comes from?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/books/2026/nov/07/narrative-threads-how-to-write-a-booker-shortlisted-novel-by-marlon-james-douglas-stuart-elizabeth-strout-and-more",
    "top": false,
    "published": "2026-11-07T09:00:06+00:00"
+  },
+  {
+   "category": "Literature",
+   "headline": "Sonia Gandhi’s memoir to revisit love, loss and her decision to decline India’s top job",
+   "summary": "‘It was heartbreak and loss that threw me into the public world of politics.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/sonia-gandhis-memoir-to-revisit-love-loss-and-her-decision-to-decline-indias-top-job/article71360236.ece",
+   "top": false,
+   "published": "2026-11-07T07:47:39+00:00"
+  },
+  {
+   "category": "Literature",
+   "headline": "All about Sonia",
+   "summary": "",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/books/the-hindu-on-books-newsletter-all-about-sonia-gandhi/article71442499.ece",
+   "top": false,
+   "published": "2026-11-07T07:37:51+00:00"
   },
   {
    "category": "Literature",
@@ -2162,58 +2216,22 @@
    "published": "2026-11-06T12:00:41+00:00"
   },
   {
-   "category": "Literature",
-   "headline": "His 1-year-old faced heart failure. His new book tells how to cope in a health crisis",
-   "summary": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-   "top": false,
-   "published": "2026-11-06T11:57:32+00:00"
-  },
-  {
-   "category": "Literature",
-   "headline": "Review | ‘The Vivisectors’ by Missouri Williams: the violence of understanding others",
-   "summary": "This Booker-longlisted novel probes the uneasy boundaries between intimacy and the human impulse to make sense of those around us.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/books/books-reviews/the-vivisectors-author-missouri-williams-booker-prize-longlisted/article71648830.ece",
-   "top": false,
-   "published": "2026-11-06T10:59:18+00:00"
-  },
-  {
-   "category": "Literature",
-   "headline": "Review | ‘Da’ by Arathi Menon is a toast to the families we choose",
-   "summary": "The novel offers a teenager’s perspective on relationships and the ostracism of gay people in India.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/books/books-reviews/da-novel-arathi-menon-india-homosexuality-section-377/article71656497.ece",
-   "top": false,
-   "published": "2026-11-06T10:04:42+00:00"
-  },
-  {
-   "category": "Literature",
-   "headline": "Nikita Gill: ‘I read Flowers in the Attic too young. Someone should have stopped me’",
-   "summary": "The Indian-Irish poet on the Mahabharata retelling that inspired her to write, Arundhati Roy’s courage, and the poetry of Lucille CliftonMy earliest reading memory My father was a sailor and my mother a teacher. They were both voracious readers.",
+   "category": "Arts & Culture",
+   "headline": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+   "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great dealWhen Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading Room, she didn’t know what to expect.“What happens if I walk in and survivors’ names are just plastered everywhere?”",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
    "top": false,
-   "published": "2026-11-06T10:00:50+00:00"
+   "published": "2026-11-08T13:00:41+00:00"
   },
   {
-   "category": "Literature",
-   "headline": "Deepavali Malars: A reading tradition amid the celebrations",
-   "summary": "A look at the few specially curated Deepavali editions featuring articles ranging from cinema, science and literature to music and culture.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/books/deepavali-malars-a-reading-tradition-amid-the-celebrations/article71655998.ece",
-   "top": false,
-   "published": "2026-11-06T09:52:20+00:00"
-  },
-  {
-   "category": "Literature",
-   "headline": "True North by Paul Theroux review – an American’s view of Canada",
-   "summary": "The veteran travel writer turns his eye for detail on his northern neighbour and its peoplePaul Theroux’s arrival in Canada doesn’t go well.",
+   "category": "Arts & Culture",
+   "headline": "How the story of ‘the girl of 100 portraits’ inspired two books",
+   "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/books/2026/nov/06/true-north-by-paul-theroux-review-an-americans-view-of-canada",
+   "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
    "top": false,
-   "published": "2026-11-06T07:00:47+00:00"
+   "published": "2026-11-08T11:00:38+00:00"
   },
   {
    "category": "Arts & Culture",
@@ -2245,7 +2263,7 @@
   {
    "category": "Arts & Culture",
    "headline": "Macklemore says that nine US arenas turned down his Free Palestine tour",
-   "summary": "Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversyMacklemore says that nine major US arenas have refused to host his Free Palestine fundraising.",
+   "summary": "Rapper called out ‘intimidation and suppression’ in post, claiming major arenas refused to host him after he was dropped from Ed Sheeran’s tourMacklemore says that nine leading US arenas have refused to host his Free Palestine fundraising tour, calling out.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
    "top": false,
@@ -2333,22 +2351,31 @@
    "published": "2026-11-06T12:00:41+00:00"
   },
   {
-   "category": "Arts & Culture",
-   "headline": "Simple nudes, priceless fakes and riches from an emperor’s palace – the week in art",
-   "summary": "Swap doomscrolling for treasured scrolls, human bodies in all their variety and love triangles in Bloomsbury squares – all in your weekly dispatchConstantinople to Istanbul: One City, Two Empires From the tulips and silks of the Ottoman court, back in time to the Emperor Constantine’s palace, this is a sumptuous and haunting mystery tour.",
+   "category": "Film & TV",
+   "headline": "Saturday Night Live: Druski hosts and James Talarico cameos, but where’s the post-election comedy?",
+   "summary": "SNL booking comedian Druski post-midterms felt misbegotten in low-energy episode failing to capture historic ‘blue-nami’Four days after the historic “blue-nami” midterms, Saturday Night Live opens at Democrats’ headquarters, where party leaders Hakeem.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/artanddesign/2026/nov/06/the-week-in-art",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico",
    "top": false,
-   "published": "2026-11-06T12:00:41+00:00"
+   "published": "2026-11-08T18:02:36+00:00"
   },
   {
-   "category": "Arts & Culture",
-   "headline": "Identity, resilience and community: early Black portrait photography – in pictures",
-   "summary": "A new Washington DC exhibition aims to show how African Americans have used portrait photography to depict themselves, their communities, their aspirations and their identities.",
+   "category": "Film & TV",
+   "headline": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
+   "summary": "Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him backGet our weekend culture and lifestyle emailIf, for whatever reason, you want to feel a bit sad, think too hard about what Elliott from ET would have been like as an adult.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/06/early-black-american-photography-remember-me-national-gallery",
+   "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
    "top": false,
-   "published": "2026-11-06T11:00:52+00:00"
+   "published": "2026-11-08T14:00:43+00:00"
+  },
+  {
+   "category": "Film & TV",
+   "headline": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
+   "summary": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenshipWhen I ask Ava DuVernay how she kept her focus while making her new film – or how anyone does, when the onslaught of news, fake news and disputed facts seems designed to overwhelm – she starts to answer, then stops.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
+   "top": false,
+   "published": "2026-11-08T10:00:36+00:00"
   },
   {
    "category": "Film & TV",
@@ -2442,15 +2469,6 @@
   },
   {
    "category": "Film & TV",
-   "headline": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
-   "summary": "The actor’s triumphant breakthrough has clear ancestors in grimy tales of working-class struggle, but finds a fresh, rousing idealismPeter Farrelly’s new film I Play Rocky is about the underdog-with-heart story of how a great boxing movie got made against the odds with its plucky young untried screenwriter allowed to star.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
-   "top": false,
-   "published": "2026-11-06T11:00:52+00:00"
-  },
-  {
-   "category": "Film & TV",
    "headline": "‘Scene’ for Deepavali: Suriya film references and special cameo appearances",
    "summary": "Does Suriya-starrer ‘Scene’ live upto expectations and what are its highlights?",
    "source": "The Hindu",
@@ -2468,22 +2486,22 @@
    "published": "2026-11-06T09:35:15+00:00"
   },
   {
-   "category": "Film & TV",
-   "headline": "‘Off Campus’ Season 2 release date: Prime Video confirms April 2027 return with Allie and Dean’s romance",
-   "summary": "The Briar University hockey drama is returning with a new central love story, as Mika Abdalla and Stephen Kalyn take the spotlight in the second season.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/entertainment/movies/off-campus-season-2-release-date-prime-video-confirms-april-2027-return-with-allie-and-deans-romance/article71673486.ece",
+   "category": "Music",
+   "headline": "‘My dad said Great Balls of Fire was pagan music – and threw it out of the window’: Leo Sayer’s honest playlist",
+   "summary": "The singer lives by the words of John Lennon, and once did karaoke surrounded by supermodels. But which song still makes him cry?The first song I fell in love with I first heard Bob Dylan through my cousin David when I was about 16.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/nov/08/leo-sayer-honest-playlist-jerry-lee-lewis-bob-marley-john-lennon",
    "top": false,
-   "published": "2026-11-06T09:14:00+00:00"
+   "published": "2026-11-08T09:00:35+00:00"
   },
   {
-   "category": "Film & TV",
-   "headline": "‘Bachelor Party D’eux’ trailer: A stylish entertainer by Amal Neerad on cards",
-   "summary": "‘Bachelor Party D’eux’, set to release on November 19, boasts a star-studded cast of Naslen K Gafoor, Kunchacko Boban, Tovino Thomas, Soubin Shahir, Sharafudheen and Sreenath Bhasi.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/entertainment/movies/bachelor-party-deux-trailer-naslen-amal-neerad-bachelor-party-deux-release-date-kunchacko-boban/article71668930.ece",
+   "category": "Music",
+   "headline": "Willie Nelson: ‘I drank too much, I smoked too much. I took too many pills’",
+   "summary": "The legendary country singer says he did everything wrong. Yet now, at 93, he’s music’s last man standing.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/nov/08/willie-nelson-interview-country-music-legend-memoir",
    "top": false,
-   "published": "2026-11-06T08:24:59+00:00"
+   "published": "2026-11-08T06:00:33+00:00"
   },
   {
    "category": "Music",
@@ -2538,15 +2556,6 @@
    "url": "https://www.theguardian.com/music/2026/nov/06/clem-cattini-obituary",
    "top": false,
    "published": "2026-11-06T15:15:27+00:00"
-  },
-  {
-   "category": "Music",
-   "headline": "Spice Girls: The Singles Collection review – stop fleecing your fans right now, thank you very much",
-   "summary": "(Virgin)The reunion that fans were hoping for turns out to be a cash-grab box set – though there is a worthwhile curio featuring Posh on lead vocalsIs there a more taunted fanbase than that of the Spice Girls?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/music/2026/nov/06/spice-girls-the-singles-collection-review-stop-fleecing-your-fans-right-now-thank-you-very-much",
-   "top": false,
-   "published": "2026-11-06T14:41:16+00:00"
   },
   {
    "category": "Music",
@@ -2612,130 +2621,139 @@
    "published": "2026-11-05T10:00:00+00:00"
   },
   {
-   "category": "Music",
-   "headline": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-   "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-   "top": false,
-   "published": "2026-11-05T07:02:12+00:00"
-  },
-  {
    "category": "Sports",
-   "headline": "Charlie Savage shines for Reading to beat dad Robbie's Peterborough",
-   "summary": "Charlie Savage scores his first goal of the season and puts in a man-of-the-match performance for Reading who knock out dad Robbie's Peterborough United in the FA Cup first round.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-08T00:12:24+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
-   "summary": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-08T00:07:11+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Fylde beat Harrogate Town in all-National League clash",
-   "summary": "Two late goals secure a 4-1 win for Fylde against Harrogate Town in an all-National League FA Cup first round tie.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqp8g3xkvdk5o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-08T00:04:58+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Was Leeds' Bogle lucky to escape red card?",
-   "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-08T00:00:26+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Forest win over Man City 'a turning point' - Murphy",
-   "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-08T00:00:14+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Arsenal should have been awarded penalty against Hull - Cann",
-   "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-08T00:00:09+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
-   "summary": "Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T23:53:30+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "York score after 10 seconds against Northampton following unique kick-off",
-   "summary": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0 win to reach the second round of the FA Cup.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T23:38:38+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
-   "summary": "Willy Hutchinson is crowned WBC light-heavyweight champion as he produces the performance of his career against Joshua Buatsi in Manchester.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T23:26:08+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "Pearce double fires York City past Northampton Town",
-   "summary": "York City captain Ollie Pearce scores after just 10 seconds followed by a second in the 13th minute, as his side cruise to a 4-0 FA Cup first round win at home to Northampton.",
-   "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqj34km75eydo?at_medium=RSS&at_campaign=rss",
-   "top": false,
-   "published": "2026-11-07T23:18:46+00:00"
-  },
-  {
-   "category": "Sports",
-   "headline": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
-   "summary": "Non-league Kidderminster stun DoncasterExeter upset Huddersfield in first roundCharlie Savage scored against his father’s team as Reading eased into the second round of the FA Cup with a 5-0 rout of Peterborough at the Weston Homes Stadium.This all-League One.",
+   "headline": "Kyle Larson joins Nascar’s all-time greats with third Cup title in six years",
+   "summary": "Larson becomes first repeat champion since 2010Hendrick driver clinches title in opening stageRyan Blaney wins season finale at HomesteadKyle Larson is now a three-time Nascar champion.Larson clinched his third Cup Series title in six years early in Sunday’s 400-mile season finale at Homestead-Miami Speedway, becoming the first back-to-back champion since Jimmie Johnson in 2010.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+   "url": "https://www.theguardian.com/sport/2026/nov/08/kyle-larson-nascar-cup-series-championship-homestead",
    "top": false,
-   "published": "2026-11-07T23:11:27+00:00"
+   "published": "2026-11-09T00:23:31+00:00"
   },
   {
    "category": "Sports",
-   "headline": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-   "summary": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
+   "headline": "Four 'huge mistakes' that show Man Utd's defensive problems",
+   "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
    "source": "BBC",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T23:05:36+00:00"
+   "published": "2026-11-08T23:53:20+00:00"
   },
   {
    "category": "Sports",
-   "headline": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
-   "summary": "Valverde opens scoring in 3-0 victory for Real MadridBayern beat Mainz but Neuer’s record-breaking day turns sourKylian Mbappé scored for the seventh match running as Real Madrid pulled provisionally level on points with La Liga leaders Barcelona after a 3-0 win at 10-man Valencia on Saturday.Reigning champions Barça visit Atlético Madrid, third, on Sunday, aiming to move back clear of the chasing pack.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+   "headline": "'A horrible place to be' - What's gone wrong for Palace?",
+   "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
    "top": false,
-   "published": "2026-11-07T22:30:08+00:00"
+   "published": "2026-11-08T23:53:08+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Norris sparkles in Sao Paulo despite firework mishap",
+   "summary": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T23:44:53+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Barcelona fight back to beat Atleti as Fermin scores twice",
+   "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T23:41:30+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "NWSL playoffs: Rodman’s brace leads Spirit rout while Gotham sneak into semi-finals",
+   "summary": "No 3 seed Washington earn 4-1 win over PortlandGotham beat Seattle 1-0 amid ‘atrocious’ field conditionsDates and venues for next round to be determinedTrinity Rodman scored twice and the host Washington Spirit overwhelmed the Portland Thorns 4-1 on Sunday in.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/08/nwsl-playoffs-roundup-gotham-reign-spirit-thorns",
+   "top": false,
+   "published": "2026-11-08T23:15:39+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+   "summary": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+   "top": false,
+   "published": "2026-11-08T22:27:50+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
+   "summary": "Falkirk continue to excel under the canny guidance of John McGlynn as a run of five successive victories takes them up to third in the Scottish Premiership.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T22:14:38+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+   "summary": "Frenchman under pressure after four successive defeatsFormer Spurs manager Frank emerging as main candidate Crystal Palace are poised to sack Pierre Sage after Sunday’s defeat by Liverpool left them bottom of the Premier League for the first time since.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+   "top": false,
+   "published": "2026-11-08T22:12:58+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Norris wins gripping race after Antonelli and Russell errors",
+   "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T22:11:31+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Norris brilliant in wet & Verstappen recovery extraordinary - driver ratings",
+   "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Sao Paulo Grand Prix.",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y43jzvrnz0o?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T21:56:33+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+   "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+   "source": "BBC",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+   "top": false,
+   "published": "2026-11-08T21:50:05+00:00"
+  },
+  {
+   "category": "Sports",
+   "headline": "Olympic boxing champion Imane Khelif set for Paris return",
+   "summary": "Promoters said this week that Imane Khelif’s December 15 professional fight at the Maison de la Mutualite in Paris will be against undefeated fighter Clarida Sarabia.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sport/olympic-boxing-champion-imane-khelif-set-for-paris-return/article71681227.ece",
+   "top": false,
+   "published": "2026-11-08T21:48:22+00:00"
+  },
+  {
+   "category": "Food",
+   "headline": "How to make banana bread – recipe | Felicity Cloake's Masterclass",
+   "summary": "Banana bread is delicious, keeps for ages, goes with all sorts – and it’s thrifty, too! Here’s how to make it in a few easy stepsBanana bread is, strictly speaking, more of a loaf-shaped cake, but, whatever you call it, the taste doesn’t lie.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/food/2026/nov/08/how-to-make-banana-bread-recipe",
+   "top": false,
+   "published": "2026-11-08T13:00:40+00:00"
+  },
+  {
+   "category": "Food",
+   "headline": "Banquet 88, London E1: ‘Sweet, rich, fiery and moreish’ – restaurant review | Grace Dent on restaurants",
+   "summary": "I turn up solo and brace myself to be dumped by the cleaning supplies cupboard, but instead the staff treat me like an off-duty empressPerched in between a Zizzi, a Côte and a Slug & Lettuce at the far end of St Katharine Docks in Ye Olde Tower of London.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/food/2026/nov/08/banquet-88-london-e1-grace-dent-restaurant-review",
+   "top": false,
+   "published": "2026-11-08T06:00:32+00:00"
   },
   {
    "category": "Food",
@@ -2784,21 +2802,21 @@
   },
   {
    "category": "Food",
-   "headline": "Rachel Roddy’s recipe for Neapolitan mostaccioli, or spiced biscuits dipped in chocolate | A kitchen in Rome",
-   "summary": "Halfway between a cake and a biscuit, with a throat-warming level of spice, these Italian treats have been around since medieval times, and only get better with ageEstablished in 1982 by sisters Piera, Pina and Grazia Saverese, Pasticceria Savarese is a Neapolitan pastry shop in south-east Rome.",
+   "headline": "Why autumn means sausages | Kitchen aide",
+   "summary": "Slowly cooked, sticky sausages sauteed with onion, soy and perhaps a bit of Marmite … our panel even has bangers with bangs for bonfire nightWhat are the best, comforting sausage dinners for autumn?",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/food/2026/nov/05/chocolate-covered-spicy-biscuits-recipe-neapolitan-mostaccioli-rachel-roddy",
+   "url": "https://www.theguardian.com/food/2026/nov/04/wanted-sausage-dinners-for-autumn",
    "top": false,
-   "published": "2026-11-05T06:00:56+00:00"
+   "published": "2026-11-03T13:00:07+00:00"
   },
   {
    "category": "Food",
-   "headline": "Tandoori celeriac, kale saag paneer and turnip sabzi: Ravinder Bhogal’s vegetarian recipes for Diwali",
-   "summary": "A Diwali feast full of light, love and lipsmacking deliciousnessDiwali, the celebration of light, arrives just as we need hope. It marks the triumph of good over evil and reminds us that light will prevail.",
+   "headline": "José Pizarro’s recipe for mussels with cider, chorizo and apple",
+   "summary": "Northern Spain on a plate: mussels with cider, apple and chorizoWhenever I cook mussels, my mind goes straight to Galicia.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/food/2026/nov/04/vegetarian-diwali-recipes-kale-saag-paneer-tandoori-celeriac-turnip-sabzi-ravinder-bhogal",
+   "url": "https://www.theguardian.com/food/2026/nov/03/mussels-cider-chorizo-apple-recipe-jose-pizarro",
    "top": false,
-   "published": "2026-11-04T06:00:27+00:00"
+   "published": "2026-11-03T06:00:41+00:00"
   },
   {
    "category": "Food",
@@ -2819,22 +2837,13 @@
    "published": "2026-11-02T06:00:35+00:00"
   },
   {
-   "category": "Food",
-   "headline": "How to make the perfect venison casserole – recipe | Felicity Cloake's How to make the perfect …",
-   "summary": "Venison casserole is as autumnal as fallen leaves, a glass of red and a fire in the grate. But who makes the best version?Because I don’t eat it very often, I always forget how much I like venison.",
+   "category": "Travel",
+   "headline": "Walking with spirits in Cambodia’s sacred forests",
+   "summary": "Former loggers and poachers have embraced ancient traditions to promote and protect the Cardamom Mountains’ ever-threatened natural wondersI’m two hours downriver from the Chi Phat community ecotourism camp, in the Koh Kong region of Cambodia, when my phone signal fizzles out completely.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/food/2026/nov/01/how-to-make-the-perfect-venison-casserole-recipe",
+   "url": "https://www.theguardian.com/travel/2026/nov/08/walking-with-spirits-cambodia-cardamom-mountains",
    "top": false,
-   "published": "2026-11-01T13:00:14+00:00"
-  },
-  {
-   "category": "Food",
-   "headline": "Moods, Leeds LS2: ‘Puzzling, if not quite a car crash’ – restaurant review",
-   "summary": "The crumpet has the texture of a damp Always UltraI’ve done some fairly rash things in my time, but I’ve never popped into anywhere for king scallops with ’nduja and come out with a swallow tattoo on my neck, though what is this life without adventure?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/food/2026/nov/01/moods-leeds-ls2-grace-dent-restaurant-review",
-   "top": false,
-   "published": "2026-11-01T06:00:05+00:00"
+   "published": "2026-11-08T07:00:33+00:00"
   },
   {
    "category": "Travel",
@@ -2882,58 +2891,76 @@
    "published": "2026-11-02T07:00:33+00:00"
   },
   {
-   "category": "Travel",
-   "headline": "The kindness of strangers: In 1989 I lost a wallet with $1,000 in it. A couple went to incredible lengths to return it",
-   "summary": "Cash was king in those days, and that money was enough to last me for a month as I slowly travelled from Australia back to the UK.",
+   "category": "Lifestyle",
+   "headline": "John Frieda obituary",
+   "summary": "Hair stylist to the stars who created the ‘Purdey’ bob and the groundbreaking Frizz Ease product rangeAll beauty chains now have metres-long shelves of products for curly, coily and wavy hair, and among the proliferating varieties of “curl custard” and “scrunching jelly” there is always the purple livery of John Frieda’s Frizz Ease range, developed from his original 1991 silicon-based serum.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/02/kindness-of-strangers-lost-wallet-cash-returned-couple",
+   "url": "https://www.theguardian.com/fashion/2026/nov/08/john-frieda-obituary",
    "top": false,
-   "published": "2026-11-01T14:00:17+00:00"
-  },
-  {
-   "category": "Travel",
-   "headline": "It’s snow time: the best winter activity holidays in Europe for non-skiers",
-   "summary": "From husky sledding and chasing the northern lights in Lapland to bear-spotting in Transylvania, here’s our pick of wild and magical snowy breaks in EuropeAt Ruka, the first skiers of the year slalomed down the slopes on 2 October.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/travel/2026/nov/01/its-snow-time-the-best-winter-activity-holidays-in-europe-for-non-skiers",
-   "top": false,
-   "published": "2026-11-01T07:00:04+00:00"
+   "published": "2026-11-08T19:22:46+00:00"
   },
   {
    "category": "Lifestyle",
-   "headline": "Saved for Sunday: How Sarah J Maas became romantasy’s Taylor Swift",
-   "summary": "I didn’t leave the house at all last weekend. Instead, I spent Saturday smashing A Court of Splintered Harmony and Sunday watching BookToks about it.",
+   "headline": "Caffeine off the clock: six ways baristas make coffee at home (and one they all hate)",
+   "summary": "What do people who spend all day making coffee use when off the clock?",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/saved-for-sunday-how-sarah-j-maas-became-romantasys-taylor-swift",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/08/best-coffee-at-home-essentials",
    "top": false,
-   "published": "2026-11-07T21:00:21+00:00"
+   "published": "2026-11-08T18:26:33+00:00"
   },
   {
    "category": "Lifestyle",
-   "headline": "‘I’m walking up hills!’ Maggie Beer on recovery, young fans and 20 years since the Cook and the Chef",
-   "summary": "Ahead of her talk at the Powerhouse Parramatta Opening festival, the 81-year-old cookbook author and presenter says she still has a lot on her plateGet our weekend culture and lifestyle emailIt has been 20 years since the first episode of the Cook and the Chef aired in 2006, introducing Australian viewers to culinary odd couple Maggie Beer and Simon Bryant.",
+   "headline": "Is this the most rubbish Christmas present ever? | Polly Hudson",
+   "summary": "I thought I knew all about disappointment, having received one of the very worst presents as a child. Then I heard about ‘data gifting’One Christmas when I was a child, my parents wrapped the presents in shiny paper.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/food/2026/nov/08/im-walking-up-hills-maggie-beer-on-recovery-young-fans-and-20-years-since-the-cook-and-the-chef",
+   "url": "https://www.theguardian.com/lifeandstyle/commentisfree/2026/nov/08/is-this-the-most-rubbish-christmas-present-ever",
    "top": false,
-   "published": "2026-11-07T19:00:19+00:00"
+   "published": "2026-11-08T16:00:44+00:00"
   },
   {
    "category": "Lifestyle",
-   "headline": "The moment I knew: He said he was having a midlife crisis – I saw a man willing to face his fears",
-   "summary": "Performer Jeremy Lloyd had a rule: no dating within the theatre and dance industry.",
+   "headline": "The kindness of strangers: I was crying on a sofa in Ikea. Then a small gesture reminded me that love is possible",
+   "summary": "Dating as a widow was awkward and I thought a shopping trip would distract me.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/the-moment-i-knew-he-said-he-was-having-a-midlife-crisis-i-saw-a-man-willing-to-face-his-fears",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/09/the-kindness-of-strangers-i-was-crying-on-a-sofa-in-ikea-then-a-small-gesture-reminded-me-that-love-is-possible",
    "top": false,
-   "published": "2026-11-07T19:00:18+00:00"
+   "published": "2026-11-08T14:00:43+00:00"
   },
   {
    "category": "Lifestyle",
-   "headline": "The best plastic-free ice cube trays in the US won’t crack, stink or taste like a freezer",
-   "summary": "From stackable silicone options to a stainless steel model, you’ll never have to use a plastic ice cube tray againSign up for the Filter US newsletter, your weekly guide to buying fewer, better thingsFor those of us without a luxury refrigerator, an ice cube tray can be a tether to sanity.",
+   "headline": "My ideal man? I’ll take a carer over an adventurer, any day | Emma Beddington",
+   "summary": "Is it ever OK to leave your family – including small children – to live in the wilderness or walk around the world?The latest season of Alone – the US TV competition in which cocky survivalists are dropped into a remote, inhospitable wilderness only to be rapidly humbled by squirrels and their own colons – has just ended.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/07/best-plastic-free-ice-cube-trays",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/my-ideal-man-carer-over-adventurer-any-day",
    "top": false,
-   "published": "2026-11-07T15:15:14+00:00"
+   "published": "2026-11-08T14:00:42+00:00"
+  },
+  {
+   "category": "Lifestyle",
+   "headline": "Why is sugar-free tonic water always described as ‘slimline’?",
+   "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical conceptsReaders reply: If I get a dumbphone, how will I cope in a smartphone world?Why is sugar-free tonic water always described as “slimline” (at least in the UK)?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/why-is-sugar-free-tonic-water-always-described-as-slimline",
+   "top": false,
+   "published": "2026-11-08T14:00:42+00:00"
+  },
+  {
+   "category": "Lifestyle",
+   "headline": "Readers reply: If I get a dumbphone, how will I cope in a smartphone world?",
+   "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical conceptsThis week’s question: Why is sugar-free tonic water always described as ‘slimline’?I’m thinking of getting a dumbphone, because there are more and more things I don’t like about smartphones and how they work.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/readers-reply-if-i-get-a-dumbphone-how-will-i-cope-in-a-smartphone-world",
+   "top": false,
+   "published": "2026-11-08T14:00:41+00:00"
+  },
+  {
+   "category": "Lifestyle",
+   "headline": "Deepavali 2026: How ready-to-drink cocktails are changing India’s festive drinking scene",
+   "summary": "From rasmalai-inspired cocktails to jamun mint and guava chilli, ready-to-drink beverages are bringing Indian flavours to Deepavali parties, reflecting changing tastes and a growing market for convenient cocktails.",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/food/features/deepavali-2026-how-ready-to-drink-cocktails-are-changing-indias-festive-drinking-scene/article71648305.ece",
+   "top": false,
+   "published": "2026-11-08T12:21:40+00:00"
   },
   {
    "category": "Lifestyle",
@@ -2942,7 +2969,7 @@
    "source": "The Hindu",
    "url": "https://www.thehindu.com/opinion/columns/live-in-relationships-in-india-is-marriage-still-the-endgame/article71669024.ece",
    "top": false,
-   "published": "2026-11-07T13:55:40+00:00"
+   "published": "2026-11-08T07:10:39+00:00"
   },
   {
    "category": "Lifestyle",
@@ -2955,39 +2982,12 @@
   },
   {
    "category": "Lifestyle",
-   "headline": "Deepavali 2026: How ready-to-drink cocktails are changing India’s festive drinking scene",
-   "summary": "From rasmalai-inspired cocktails to jamun mint and guava chilli, ready-to-drink beverages are bringing Indian flavours to Deepavali parties, reflecting changing tastes and a growing market for convenient cocktails.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/food/features/deepavali-2026-how-ready-to-drink-cocktails-are-changing-indias-festive-drinking-scene/article71648305.ece",
-   "top": false,
-   "published": "2026-11-07T13:25:19+00:00"
-  },
-  {
-   "category": "Lifestyle",
    "headline": "Bhoot Chaturdashi 2026: Haunted places and curated walks to explore in Kolkata",
    "summary": "From a white horse believed to haunt the racecourse to whispers in the National Library and apparitions along the Hooghly, Kolkata's supernatural folklore offers an unusual itinerary for the curious.",
    "source": "The Hindu",
    "url": "https://www.thehindu.com/life-and-style/bhoot-chaturdashi-2026-haunted-places-and-curated-walks-to-explore-in-kolkata/article71677281.ece",
    "top": false,
    "published": "2026-11-07T13:19:28+00:00"
-  },
-  {
-   "category": "Lifestyle",
-   "headline": "Chris Packham: ‘When I was 14, I had a kestrel. I have never been happier or more in love since’",
-   "summary": "The BBC presenter on listening to techno, wanting his ashes scattered with those of his dogs and shaving with his eyes shutBorn in Southampton, Chris Packham, 65, gained a zoology degree at the University of Southampton.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/07/chris-packham-kestrel-happier-in-love",
-   "top": false,
-   "published": "2026-11-07T10:00:08+00:00"
-  },
-  {
-   "category": "Lifestyle",
-   "headline": "‘Minimal look, maximal politics’: why the black T-shirt signals modern power",
-   "summary": "The look – worn by Abdul El-Sayed, Andy Burnham and Volodymyr Zelenskyy – radiates authority and no-nonsense masculinity, say fashion expertsFor years the black T-shirt was consigned to the clothing category of plain basics.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/fashion/2026/nov/06/minimal-look-maximal-politics-how-the-black-t-shirt-became-a-political-weapon",
-   "top": false,
-   "published": "2026-11-07T09:51:10+00:00"
   },
   {
    "category": "Lifestyle",
@@ -3026,13 +3026,58 @@
    "published": "2026-11-07T03:44:36+00:00"
   },
   {
-   "category": "Lifestyle",
-   "headline": "When the Chanel circus came to Sydney it brought bespoke barricades and 800 VICs",
-   "summary": "Celebrities including Nicole Kidman, Margot Robbie and Kylie Minogue sat front row at two runway events while bemused locals looked onThey came, they saw, they CC’d.",
+   "category": "Opinion",
+   "headline": "We all want to protect our children from anxiety. But could we be making it worse? | Diane Young",
+   "summary": "No one wants their child to struggle. But the things parents do can disempower children later in lifeThe modern mind is a column where experts discuss mental health issues they are seeing in their workWhen a child is anxious, most parents instinctively want to make things better.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/fashion/2026/nov/07/when-the-chanel-circus-came-to-sydney-it-brought-bespoke-barricades-and-800-vics",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/parenting-protecting-children-from-anxiety",
    "top": false,
-   "published": "2026-11-06T23:00:54+00:00"
+   "published": "2026-11-08T14:00:44+00:00"
+  },
+  {
+   "category": "Opinion",
+   "headline": "‘The light of dawn is on the horizon’: the best moments from US midterm victory speeches | Ted Widmer",
+   "summary": "Tuesday’s winners offered a new politics at a time when ‘there is something broken in America’As the US election returns came in throughout the night on Tuesday, there was ebullience at the size of the margin.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches",
+   "top": false,
+   "published": "2026-11-08T14:00:41+00:00"
+  },
+  {
+   "category": "Opinion",
+   "headline": "Centrism did not win the Democratic party the election",
+   "summary": "The blue wave, while a rebuke of Trump’s policies, was also a referendum on the party’s status quoOn election night I stood in a crowd at Harlem Tavern, a restaurant in New York City, at the electoral party for Darializa Avila Chevalier, the Democratic Socialists of America (DSA) member and congresswoman-elect from New York’s 13th congressional district.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism",
+   "top": false,
+   "published": "2026-11-08T12:00:41+00:00"
+  },
+  {
+   "category": "Opinion",
+   "headline": "Zohran Mamdani has a mustache now. We cannot take this lightly | Dave Schilling",
+   "summary": "The once-bearded New York mayor has downsized his facial hair. Does it work?I’ve battled with facial hair almost my entire adult life.I started growing it early, turning me into a pubescent villain from a spaghetti western.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair",
+   "top": false,
+   "published": "2026-11-08T12:00:40+00:00"
+  },
+  {
+   "category": "Opinion",
+   "headline": "There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself | Rhiannon Lucy Cosslett",
+   "summary": "Prescriptions for these beta blockers are soaring among England’s teenage girls. But they deserve more than this sticking-plaster approachThe first time I had a panic attack, I genuinely thought I was dying.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/magic-pill-young-women-anxiety-propranolol-beta-blockers-girls",
+   "top": false,
+   "published": "2026-11-08T08:00:36+00:00"
+  },
+  {
+   "category": "Opinion",
+   "headline": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
+   "summary": "With the global tide turning against him, the US president’s lame duck status could still aggravate old tensions and spark new explosionsIt was a victory for the world, too.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
+   "top": false,
+   "published": "2026-11-08T06:00:32+00:00"
   },
   {
    "category": "Opinion",
@@ -3081,15 +3126,6 @@
   },
   {
    "category": "Opinion",
-   "headline": "Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’",
-   "summary": "Ahead of the launch of her book, Sonia Gandhi speaks to The Hindu, answering a number of questions — personal and political.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/sonia-gandhi-interview-great-damage-done-to-the-fabric-of-india-by-bjp/article71674284.ece",
-   "top": false,
-   "published": "2026-11-07T10:56:29+00:00"
-  },
-  {
-   "category": "Opinion",
    "headline": "Moscow has shuttered Novaya Gazeta – we told the truth and we paid the price | Elena Kostyuchenko",
    "summary": "Russia’s best-known independent newspaper was my home for 17 years. It’s being shut down, but the spirit of its journalism will live onNovaya Gazeta – Russia’s most prominent independent newspaper – is being shut down.",
    "source": "The Guardian",
@@ -3117,57 +3153,12 @@
   },
   {
    "category": "Opinion",
-   "headline": "Young and fast: on F1’s youngest champion",
-   "summary": "As F1’s youngest champion, Kimi Antonelli can attract a new generation of fans.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/editorial/young-and-fast-on-f1s-youngest-champion/article71674756.ece",
-   "top": false,
-   "published": "2026-11-07T04:34:19+00:00"
-  },
-  {
-   "category": "Opinion",
-   "headline": "The struggle for justice is indivisible",
-   "summary": "From Panna to Delhi, the fight against displacement and disenfranchisement has a common thread — a struggle against state repression and the systematic erosion of a citizen’s constitutional rights.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/lead/the-struggle-for-justice-is-indivisible/article71675148.ece",
-   "top": false,
-   "published": "2026-11-07T04:24:59+00:00"
-  },
-  {
-   "category": "Opinion",
-   "headline": "Demonetisation and the health costs of cash shortages",
-   "summary": "Research shows the hidden public health costs of India’s demonetisation and the importance of liquidity.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/op-ed/demonetisation-and-the-health-costs-of-cash-shortages/article71675256.ece",
-   "top": false,
-   "published": "2026-11-07T04:07:29+00:00"
-  },
-  {
-   "category": "Opinion",
-   "headline": "Epic failures: on electoral roll, welfare",
-   "summary": "The electoral roll cannot be used to determine welfare beneficiaries.",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece",
-   "top": false,
-   "published": "2026-11-07T03:49:46+00:00"
-  },
-  {
-   "category": "Opinion",
-   "headline": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
-   "summary": "Tech stocks have lost trillions while voters have rejected the industry’s political champions. The billionaire-led boom is facing a democratic reckoningThis week’s midterms showed that the political bill for the AI boom is falling due.",
+   "headline": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+   "summary": "Acts of greyzone aggression aim to spread panic. Europe has to show the saboteurs that we are resilientIt was as though a ghostly hand had switched the settings on supermarket freezers across Europe from “freeze” to “defrost”.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
    "top": false,
-   "published": "2026-11-06T23:45:52+00:00"
-  },
-  {
-   "category": "Opinion",
-   "headline": "Letters to The Editor — November 7, 2026",
-   "summary": "",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/letters/letters-to-the-editor-november-7-2026/article71675373.ece",
-   "top": false,
-   "published": "2026-11-06T18:33:37+00:00"
+   "published": "2026-11-07T05:00:02+00:00"
   }
  ],
  "context": [
